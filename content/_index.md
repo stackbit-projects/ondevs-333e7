@@ -52,9 +52,10 @@ sections:
         template: feature_item
         title: Awesome Feature of Your Services
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          As supporters of community projects, and charitable cause we always
+          volunteer assistance where possible. 
+
+          Contact Us Today to Discuss Your Next Move
         image: images/feature2.png
         image_alt: App users welcoming a new member
         actions:
