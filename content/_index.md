@@ -24,7 +24,7 @@ sections:
   - type: section_features
     template: section_features
     section_id: features
-    title: Features
+    title: Strive To Be Different
     subtitle: >-
       Helping to Turn ideas into action. Whether a new idea, or a family
       business. OnDevs Provide a 1to1 personal approach unlike any other.
