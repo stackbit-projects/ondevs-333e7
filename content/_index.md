@@ -8,7 +8,7 @@ sections:
     section_id: hero
     title: hi val
     content: hello
-    image: images/hero.png
+    image: /images/nervous-mango.png
     image_alt: App preview
     actions:
       - type: action
