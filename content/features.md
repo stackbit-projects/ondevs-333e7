@@ -1,17 +1,6 @@
 ---
 title: Features
 sections:
-  - type: section_cta
-    template: section_cta
-    section_id: call-to-action
-    title: This Is Call to Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - type: action
-        template: action
-        label: Get Started
-        url: '#'
-        style: secondary
   - type: section_content
     template: section_content
     section_id: features
@@ -43,6 +32,17 @@ sections:
       - type: action
         template: action
         label: View Demo
+        url: '#'
+        style: secondary
+  - type: section_cta
+    template: section_cta
+    section_id: call-to-action
+    title: This Is Call to Action Block!
+    subtitle: This is an optional description for the call to action block.
+    actions:
+      - type: action
+        template: action
+        label: Get Started
         url: '#'
         style: secondary
 layout: landing
