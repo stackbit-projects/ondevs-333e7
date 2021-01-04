@@ -68,10 +68,7 @@ sections:
       - type: feature_item
         template: feature_item
         title: Cutting Edge Tech
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: See some examples of our work in action.
         image: images/feature3.png
         image_alt: App user profile preview
         actions:
