@@ -26,8 +26,8 @@ sections:
     section_id: features
     title: Features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Helping to Turn ideas into action. Whether a new idea, or a family
+      business. OnDevs Provide a 1to1 personal approach unlike any other.
     background: gray
     features:
       - type: feature_item
