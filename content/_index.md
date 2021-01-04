@@ -33,10 +33,15 @@ sections:
       - type: feature_item
         template: feature_item
         title: The Best Feature of Your Services
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          More than just Techies and marketers. We aim to provide a family 
+
+          feel to business. 
+
+          As supporters of community projects, and charitable cause we always
+          volunteer assistance where possible. 
+
+          Contact Us Today to Discuss Your Next Move
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         actions:
