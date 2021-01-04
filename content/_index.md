@@ -114,7 +114,7 @@ sections:
   - type: section_cta
     template: section_cta
     section_id: call-to-action
-    title: This Is Call To Action Block!
+    title: In these trying times we extend an ear to any that may need it
     subtitle: This is an optional description for the call to action block.
     actions:
       - type: action
