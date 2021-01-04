@@ -23,7 +23,7 @@ fields:
   - type: text
     name: domain
     label: Domain
-    description: 'The domain of your site, including the protocol, e.g. https://mysite.com/'
+    description: The domain of your site, including the protocol, e.g. https://mysite.com/
   - type: file
     name: favicon
     label: Favicon
@@ -105,7 +105,7 @@ fields:
 - type: boolean
   name: uglyURLs
   label: Ugly URLs
-  description: 'When enabled, creates URL of the form /filename.html instead of /filename/.'
+  description: When enabled, creates URL of the form /filename.html instead of /filename/.
   hidden: true
 pages:
 - config.yaml

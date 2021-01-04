@@ -45,8 +45,8 @@ fields:
   config:
     required: true
 pages:
-- about.md
-- privacy-policy.md
-- signup.md
-- style-guide.md
-- terms-of-service.md
+- content/about.md
+- content/privacy-policy.md
+- content/signup.md
+- content/style-guide.md
+- content/terms-of-service.md
