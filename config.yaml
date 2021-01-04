@@ -44,7 +44,7 @@ params:
         image: /images/blue-celery.png
         image_alt: Footer logo
         image_url: /
-        content: Stackbit theme demo
+        content: 'OnDevs, because business never stops'
       - type: footer_nav
         template: footer_nav
         title: Company
