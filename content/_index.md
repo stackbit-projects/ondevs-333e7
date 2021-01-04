@@ -50,7 +50,7 @@ sections:
             icon_position: right
       - type: feature_item
         template: feature_item
-        title: Awesome Feature of Your Services
+        title: We support non-profits through our proceeds.
         content: >-
           As supporters of community projects, and charitable cause we always
           volunteer assistance where possible. 
