@@ -7,9 +7,7 @@ sections:
     template: section_hero
     section_id: hero
     title: hi val
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: hello
     image: images/hero.png
     image_alt: App preview
     actions:
