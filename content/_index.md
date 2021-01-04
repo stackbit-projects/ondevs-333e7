@@ -51,11 +51,9 @@ sections:
       - type: feature_item
         template: feature_item
         title: We support non-profits through our proceeds.
-        content: >-
+        content: >
           As supporters of community projects, and charitable cause we always
           volunteer assistance where possible. 
-
-          Contact Us Today to Discuss Your Next Move
         image: images/feature2.png
         image_alt: App users welcoming a new member
         actions:
