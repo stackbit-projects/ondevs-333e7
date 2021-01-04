@@ -119,7 +119,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Get Started
+        label: Contact
         url: /signup
         style: primary
   - type: section_posts
