@@ -130,6 +130,7 @@ params:
       rel="noopener">Stackbit</a>. Get yours <a
       href="https://app.stackbit.com/create?theme=azimuth" target="_blank"
       rel="noopener">here</a>.
+  domain: ondevs.com
 taxonomies:
   stub: stub
 disableKinds:
