@@ -115,7 +115,7 @@ sections:
     template: section_cta
     section_id: call-to-action
     title: In these trying times we extend an ear to any that may need it
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Contact Us Today to Discuss Your Next Move
     actions:
       - type: action
         template: action
