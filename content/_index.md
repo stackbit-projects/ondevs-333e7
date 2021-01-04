@@ -6,9 +6,14 @@ sections:
   - type: section_hero
     template: section_hero
     section_id: hero
-    title: hi val
-    content: hello
-    image: images/hero.png
+    title: Unlike any other.Your “GO TO” for Gold Star Business Services
+    content: >
+      Helping Businesses Grow with Money Saving Technology.
+
+
+      We provide web solutions, website creation, and a range of marketing
+      services from leaflet distribution to online advertising. 
+    image: /images/nervous-mango.png
     image_alt: App preview
     actions:
       - type: action
@@ -19,19 +24,19 @@ sections:
   - type: section_features
     template: section_features
     section_id: features
-    title: Features
+    title: Strive To Be Different
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Helping to Turn ideas into action. Whether a new idea, or a family
+      business. OnDevs Provide a 1to1 personal approach unlike any other.
     background: gray
     features:
       - type: feature_item
         template: feature_item
         title: The Best Feature of Your Services
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: |+
+          More than just Techies and marketers. We aim to provide a family 
+          feel to business. 
+
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         actions:
@@ -45,11 +50,10 @@ sections:
             icon_position: right
       - type: feature_item
         template: feature_item
-        title: Awesome Feature of Your Services
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        title: We support non-profits through our proceeds.
+        content: >
+          As supporters of community projects, and charitable cause we always
+          volunteer assistance where possible. 
         image: images/feature2.png
         image_alt: App users welcoming a new member
         actions:
@@ -63,11 +67,8 @@ sections:
             icon_position: right
       - type: feature_item
         template: feature_item
-        title: Cool Feature of Your Services
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        title: Cutting Edge Tech
+        content: See some examples of our work in action.
         image: images/feature3.png
         image_alt: App user profile preview
         actions:

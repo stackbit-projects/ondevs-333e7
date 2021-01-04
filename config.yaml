@@ -6,7 +6,7 @@ params:
   header:
     type: header
     template: header
-    logo_img: images/logo.svg
+    logo_img: /images/OD.png
     logo_img_alt: Logo
     has_nav: true
     nav_links:
