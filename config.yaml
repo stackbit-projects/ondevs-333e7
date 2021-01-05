@@ -126,6 +126,7 @@ params:
         style: link
     content: "A JamStack Static site created by\_OnDevs. All rights reserved."
   domain: ondevs.com
+  favicon: /images/magical-sun.png
 taxonomies:
   stub: stub
 disableKinds:
