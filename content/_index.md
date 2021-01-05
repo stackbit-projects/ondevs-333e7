@@ -1,7 +1,7 @@
 ---
 title: Home
-meta_title: Stackbit Azimuth Theme
-meta_description: The preview of the Azimuth theme
+meta_title: OnDevs - Modern Marketing Solutions
+meta_description: 'Marketing, advertising, software, and more. A British Tech company.'
 sections:
   - type: section_hero
     template: section_hero
@@ -114,18 +114,13 @@ sections:
   - type: section_cta
     template: section_cta
     section_id: call-to-action
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: In these trying times we extend an ear to any that may need it
+    subtitle: Contact Us Today to Discuss Your Next Move
     actions:
       - type: action
         template: action
-        label: Get Started
+        label: Contact
         url: /signup
         style: primary
-  - type: section_posts
-    template: section_posts
-    section_id: recent-posts
-    title: Latest Posts
-    background: gray
 layout: landing
 ---
