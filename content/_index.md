@@ -1,7 +1,7 @@
 ---
 title: Home
 meta_title: OnDevs - Modern Marketing Solutions
-meta_description: 'Marketing, advertising, software, and more. A Brit'
+meta_description: 'Marketing, advertising, software, and more. A British Tech company.'
 sections:
   - type: section_hero
     template: section_hero
