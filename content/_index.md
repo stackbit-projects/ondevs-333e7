@@ -1,7 +1,7 @@
 ---
 title: Home
 meta_title: OnDevs - Modern Marketing Solutions
-meta_description: The preview of the Azimuth theme
+meta_description: 'Marketing, advertising, software, and'
 sections:
   - type: section_hero
     template: section_hero
