@@ -7,7 +7,7 @@ params:
     type: header
     template: header
     logo_img: /images/OD.png
-    logo_img_alt: oNdEVS
+    logo_img_alt: Ondevs
     has_nav: true
     nav_links:
       - type: action
