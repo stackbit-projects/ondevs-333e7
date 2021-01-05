@@ -1,7 +1,7 @@
 title: Azimuth
 baseURL: /
 params:
-  palette: purple
+  palette: cyan
   base_font: nunito-sans
   header:
     type: header
