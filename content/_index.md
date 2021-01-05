@@ -1,6 +1,6 @@
 ---
 title: Home
-meta_title: Stackbit Azimuth Theme
+meta_title: OnDevs - Modern Marketing Solutions
 meta_description: The preview of the Azimuth theme
 sections:
   - type: section_hero
