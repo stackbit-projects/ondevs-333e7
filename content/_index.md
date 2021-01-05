@@ -122,10 +122,5 @@ sections:
         label: Contact
         url: /signup
         style: primary
-  - type: section_posts
-    template: section_posts
-    section_id: recent-posts
-    title: Latest Posts
-    background: gray
 layout: landing
 ---
