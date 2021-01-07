@@ -31,11 +31,6 @@ params:
         has_icon: true
       - type: action
         template: action
-        label: Support
-        url: /Support\
-        style: link
-      - type: action
-        template: action
         label: Contact
         url: /contact
         style: primary
