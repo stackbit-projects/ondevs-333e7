@@ -75,7 +75,7 @@ sections:
     type: section_features
     template: section_features
   - section_id: Services
-    title: Services
+    title: Our Areas of Expertise
     subtitle: lorem-ipsum
     background: gray
     reviews:
