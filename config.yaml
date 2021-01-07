@@ -124,7 +124,7 @@ params:
         label: Privacy Policy
         url: /privacy-policy
         style: link
-    content: "A JamStack Static site created by\_OnDevs. All rights reserved."
+    content: "Static site created by\_OnDevs. All rights reserved."
   domain: ondevs.com
   favicon: /images/magical-sun.png
 taxonomies:
