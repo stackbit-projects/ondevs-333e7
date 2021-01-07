@@ -17,7 +17,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Services
+        label: Visit Services
         url: /features
         style: primary
   - type: section_features
