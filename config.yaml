@@ -32,7 +32,7 @@ params:
       - type: action
         template: action
         label: Support
-        url: /style-guide
+        url: /Support\
         style: link
       - type: action
         template: action
