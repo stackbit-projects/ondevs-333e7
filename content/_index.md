@@ -10,7 +10,6 @@ sections:
     content: >
       We help you reach the upper limits.
 
-
       Providing technical solutions, website creation, and a range of marketing
       services from leaflet distribution to online advertising. 
     image: /images/nervous-mango.png
