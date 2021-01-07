@@ -41,7 +41,7 @@ sections:
           - type: action
             template: action
             label: About Us
-            url: /about
+            url: /portfolio
             style: secondary
             has_icon: true
             icon: arrow-right
