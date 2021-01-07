@@ -47,9 +47,11 @@ sections:
       - type: feature_item
         template: feature_item
         title: ''
-        content: >
+        content: >-
           As supporters of community projects, and charitable cause we always
           volunteer assistance where possible. 
+
+          We support non-profits through our proceeds.
         image: /images/Untitled design (48).png
         image_alt: App users welcoming a new member
         actions:
