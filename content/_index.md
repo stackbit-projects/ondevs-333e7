@@ -112,7 +112,7 @@ sections:
   - type: section_cta
     template: section_cta
     section_id: call-to-action
-    title: We extend an ear to any that may need it
+    title: Ready to talk?
     subtitle: Contact us today to discuss our next move
     actions:
       - type: action
