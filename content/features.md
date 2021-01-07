@@ -52,20 +52,12 @@ sections:
       - title: Generate Bookings
         subtitle: Never miss a booking
         price: Generate Bookings
-        details: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        details: |-
 
 
           - Fill your cancelled appointments quickly
-
           - Easy to use appointment making system
-
           - Keep your phone lines free for new customers
-
           - Never miss a booking
         highlight: false
         actions: []
