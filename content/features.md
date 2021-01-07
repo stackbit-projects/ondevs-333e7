@@ -21,7 +21,7 @@ sections:
 
       They then asked that we open it up to the public in these times of
       difficulty. Helping connect, friends, family, and colleagues
-    image: images/feature1.png
+    image: /images/Untitled design (51).png
     image_alt: App preview on a phone and tablet
     background: gray
     actions:
