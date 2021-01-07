@@ -52,7 +52,7 @@ sections:
           volunteer assistance where possible. 
 
           We support non-profits through our proceeds.
-        image: /images/Untitled design (48).png
+        image: /images/Untitled design (50).png
         image_alt: App users welcoming a new member
         actions:
           - type: action
