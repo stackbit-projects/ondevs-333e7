@@ -31,7 +31,7 @@ sections:
         style: primary
       - type: action
         template: action
-        label: View Demo
+        label: View Help
         url: '#'
         style: secondary
   - section_id: lorem-ipsum
