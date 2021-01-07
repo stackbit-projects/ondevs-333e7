@@ -74,5 +74,5 @@ sections:
     template: section_cta
 layout: landing
 meta_title: 'services marketing advertising '
-canonical_url: services
+canonical_url: ''
 ---
