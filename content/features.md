@@ -37,7 +37,7 @@ sections:
         style: secondary
   - section_id: lorem-ipsum
     title: Our Areas of Expertise
-    subtitle: lorem-ipsum
+    subtitle: 'Money saving, growth driving services'
     background: gray
     type: section_posts
     template: section_posts
