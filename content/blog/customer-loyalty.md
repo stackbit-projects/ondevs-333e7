@@ -2,7 +2,6 @@
 title: Customer Loyalty Programs That Stick
 subtitle: A story about customer loyalty
 date: '2019-04-23'
-author: data/authors/jane-doe.json
 excerpt: >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
   amet commodo massa.
