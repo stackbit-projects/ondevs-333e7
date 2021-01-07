@@ -35,12 +35,6 @@ sections:
         label: View Help
         url: '#'
         style: secondary
-  - section_id: lorem-ipsum
-    title: ''
-    subtitle: ''
-    background: gray
-    type: section_posts
-    template: section_posts
   - type: section_cta
     template: section_cta
     section_id: call-to-action
