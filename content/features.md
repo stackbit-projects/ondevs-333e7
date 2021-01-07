@@ -37,7 +37,7 @@ sections:
         style: secondary
       - label: lorem-ipsum
         url: lorem-ipsum
-        style: primary
+        style: secondary
         has_icon: false
         icon: arrow-left
         icon_position: left
