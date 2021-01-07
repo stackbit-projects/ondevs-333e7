@@ -36,7 +36,7 @@ sections:
         url: '#'
         style: secondary
       - label: lorem-ipsum
-        url: lorem-ipsum
+        url: lightparty.site
         style: secondary
         has_icon: false
         icon: arrow-left
