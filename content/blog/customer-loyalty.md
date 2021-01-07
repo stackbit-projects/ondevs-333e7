@@ -1,6 +1,6 @@
 ---
 title: Serviice
-subtitle: A story about customer loyalty
+subtitle: Service
 date: '2019-04-23'
 excerpt: >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
