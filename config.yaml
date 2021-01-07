@@ -18,7 +18,7 @@ params:
       - type: action
         template: action
         label: Services
-        url: /features
+        url: /services
         style: link
       - type: action
         template: action
