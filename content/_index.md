@@ -54,7 +54,7 @@ sections:
         content: >
           As supporters of community projects, and charitable cause we always
           volunteer assistance where possible. 
-        image: /images/9.png
+        image: /images/hero.png
         image_alt: App users welcoming a new member
         actions:
           - type: action
