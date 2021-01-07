@@ -37,7 +37,7 @@ sections:
           More than just Techies and marketers. We aim to provide a family 
           feel to business. 
 
-        image: /images/Untitled design.gif
+        image: /images/futuristic-whale.gif
         image_alt: App preview on a phone and tablet
         actions:
           - type: action
