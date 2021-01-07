@@ -34,6 +34,12 @@ sections:
         label: View Demo
         url: '#'
         style: secondary
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    type: section_posts
+    template: section_posts
   - type: section_cta
     template: section_cta
     section_id: call-to-action
@@ -65,11 +71,5 @@ sections:
     actions: []
     type: section_cta
     template: section_cta
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    type: section_posts
-    template: section_posts
 layout: landing
 ---
