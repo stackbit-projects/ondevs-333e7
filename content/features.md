@@ -35,17 +35,6 @@ sections:
         label: View Help
         url: '#'
         style: secondary
-  - type: section_cta
-    template: section_cta
-    section_id: call-to-action
-    title: This Is Call to Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - type: action
-        template: action
-        label: Get Started
-        url: '#'
-        style: secondary
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
@@ -155,6 +144,17 @@ sections:
         type: pricing_plan
     type: section_pricing
     template: section_pricing
+  - type: section_cta
+    template: section_cta
+    section_id: call-to-action
+    title: This Is Call to Action Block!
+    subtitle: This is an optional description for the call to action block.
+    actions:
+      - type: action
+        template: action
+        label: Get Started
+        url: '#'
+        style: secondary
 layout: landing
 meta_title: 'services marketing advertising '
 canonical_url: ''
