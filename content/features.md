@@ -69,12 +69,6 @@ sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
-    actions: []
-    type: section_cta
-    template: section_cta
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
     background: gray
     pricing_plans:
       - title: lorem-ipsum
