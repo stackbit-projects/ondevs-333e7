@@ -46,7 +46,7 @@ sections:
             icon_position: right
       - type: feature_item
         template: feature_item
-        title: About
+        title: About US
         content: >-
           As supporters of community projects, and charitable cause we always
           volunteer assistance where possible. 
