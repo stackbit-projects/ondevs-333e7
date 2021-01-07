@@ -12,7 +12,7 @@ sections:
 
       Providing technical solutions, website creation, and a range of marketing
       services from leaflet distribution to online advertising. 
-    image: /images/nervous-mango.png
+    image: /images/OD (1).png
     image_alt: App preview
     actions:
       - type: action
