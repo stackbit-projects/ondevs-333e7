@@ -72,6 +72,13 @@ sections:
     actions: []
     type: section_cta
     template: section_cta
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    pricing_plans: []
+    type: section_pricing
+    template: section_pricing
 layout: landing
 meta_title: 'services marketing advertising '
 canonical_url: ''
