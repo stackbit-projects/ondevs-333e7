@@ -92,7 +92,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: ''
-        subtitle: lorem-ipsum
+        subtitle: ''
         price: Content Writing
         details: |
           * Produce engaging content to drive traffic to your products
