@@ -49,7 +49,7 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     pricing_plans:
-      - title: Generate Bookings
+      - title: ''
         subtitle: ''
         price: Generate Bookings
         details: |-
