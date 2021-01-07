@@ -35,6 +35,18 @@ sections:
         label: View Help
         url: '#'
         style: secondary
+  - section_id: Services
+    title: Our Areas of Expertise
+    subtitle: lorem-ipsum
+    background: gray
+    reviews:
+      - author: lorem-ipsum
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        type: review_item
+    type: section_reviews
+    template: section_reviews
   - type: section_cta
     template: section_cta
     section_id: call-to-action
@@ -68,18 +80,6 @@ sections:
         type: feature_item
     type: section_features
     template: section_features
-  - section_id: Services
-    title: Our Areas of Expertise
-    subtitle: lorem-ipsum
-    background: gray
-    reviews:
-      - author: lorem-ipsum
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        type: review_item
-    type: section_reviews
-    template: section_reviews
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
