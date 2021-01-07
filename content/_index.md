@@ -40,7 +40,7 @@ sections:
         actions:
           - type: action
             template: action
-            label: About Us
+            label: View Portfolio
             url: /portfolio
             style: secondary
             has_icon: true
