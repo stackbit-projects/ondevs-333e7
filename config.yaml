@@ -20,6 +20,7 @@ params:
         label: Services
         url: /services
         style: link
+        has_icon: true
       - type: action
         template: action
         label: Pricing
