@@ -75,7 +75,7 @@ sections:
     type: section_features
     template: section_features
   - section_id: Services
-    title: lorem-ipsum
+    title: Serv
     subtitle: lorem-ipsum
     background: gray
     reviews:
