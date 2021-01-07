@@ -77,17 +77,10 @@ sections:
       - title: ''
         subtitle: ''
         price: lorem-ipsum
-        details: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        details: |
+          * Website design using an easy to navigate dashboard
+          * Email marketing with impact
+          * Update your website in realtime
         highlight: false
         actions: []
         type: pricing_plan
