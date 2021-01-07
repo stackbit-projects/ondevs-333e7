@@ -35,7 +35,7 @@ sections:
         label: View Help
         url: '#'
         style: secondary
-      - label: Light Aprty
+      - label: Light Party
         url: lightparty.site
         style: secondary
         has_icon: false
