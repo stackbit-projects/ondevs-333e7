@@ -35,7 +35,7 @@ params:
       - type: action
         template: action
         label: Contact
-        url: /signup
+        url: /contact
         style: primary
   footer:
     type: footer
