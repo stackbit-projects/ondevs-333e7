@@ -67,10 +67,10 @@ sections:
         price: Social Media
         details: |
 
-          Get your products seen by a larger audience
-          Promote your events
-          Build connections with social influencers
-          Get your brand seen by new audiences
+          - Get your products seen by a larger audience
+          - Promote your events
+          - Build connections with social influencers
+          - Get your brand seen by new audiences
         highlight: false
         actions: []
         type: pricing_plan
