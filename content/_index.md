@@ -33,7 +33,7 @@ sections:
         template: feature_item
         title: Out Of This World
         content: 'Cutting edge services, to propel your business. '
-        image: /images/Untitled design (43).png
+        image: /images/Untitled design (42).png
         image_alt: App preview on a phone and tablet
         actions:
           - type: action
