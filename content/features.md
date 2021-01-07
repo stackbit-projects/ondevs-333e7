@@ -86,6 +86,13 @@ sections:
     pricing_plans: []
     type: section_pricing
     template: section_pricing
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    reviews: []
+    type: section_reviews
+    template: section_reviews
 layout: landing
 meta_title: 'services marketing advertising '
 canonical_url: ''
