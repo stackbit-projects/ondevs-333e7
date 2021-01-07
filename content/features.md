@@ -50,7 +50,7 @@ sections:
     background: gray
     pricing_plans:
       - title: Generate Bookings
-        subtitle: Never miss a booking
+        subtitle: ''
         price: Generate Bookings
         details: |-
 
