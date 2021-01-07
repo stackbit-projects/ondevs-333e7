@@ -37,7 +37,7 @@ sections:
         style: secondary
   - section_id: lorem-ipsum
     title: ''
-    subtitle: 'Money saving, growth driving services'
+    subtitle: ''
     background: gray
     type: section_posts
     template: section_posts
