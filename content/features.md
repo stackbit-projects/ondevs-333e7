@@ -104,17 +104,10 @@ sections:
       - title: ''
         subtitle: ''
         price: lorem-ipsum
-        details: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        details: |-
+          * Promote your products and services to buying customers
+          * Bring customers to your website affordably
+          * We can work with any budget of 250 GBP per month
         highlight: false
         actions: []
         type: pricing_plan
