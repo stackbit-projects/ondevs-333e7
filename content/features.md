@@ -94,17 +94,10 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         price: Content Writing
-        details: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        details: |
+          * Produce engaging content to drive traffic to your products
+          * Create bookings with new customers
+          * Pay your employees salary with the content we write
         highlight: false
         actions: []
         type: pricing_plan
