@@ -27,6 +27,7 @@ params:
         label: Pricing
         url: /pricing
         style: link
+        icon: arrow-right
       - type: action
         template: action
         label: Style Guide
