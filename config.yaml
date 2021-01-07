@@ -21,7 +21,7 @@ params:
         url: /services
         style: link
         has_icon: true
-        icon: envelope
+        icon: arrow-right
       - type: action
         template: action
         label: Pricing
