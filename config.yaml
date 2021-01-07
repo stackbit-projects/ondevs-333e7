@@ -28,6 +28,7 @@ params:
         url: /pricing
         style: link
         icon: arrow-right
+        has_icon: true
       - type: action
         template: action
         label: Style Guide
