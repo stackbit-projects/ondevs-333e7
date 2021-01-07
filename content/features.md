@@ -85,7 +85,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: ''
-        subtitle: lorem-ipsum
+        subtitle: ''
         price: Email Marketing
         details: '* Email marketing with impact'
         highlight: false
