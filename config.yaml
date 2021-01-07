@@ -18,7 +18,7 @@ params:
       - type: action
         template: action
         label: Services
-        url: /services
+        url: /feautures
         style: link
         has_icon: true
         icon: arrow-right
