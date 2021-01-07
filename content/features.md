@@ -35,6 +35,15 @@ sections:
         label: View Help
         url: '#'
         style: secondary
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
+        type: action
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
