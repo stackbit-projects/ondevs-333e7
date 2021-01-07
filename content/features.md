@@ -50,7 +50,7 @@ sections:
     background: gray
     pricing_plans:
       - title: Generate Bookings
-        subtitle: lorem-ipsum
+        subtitle: Never miss a booking
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
