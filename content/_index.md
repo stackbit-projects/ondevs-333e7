@@ -113,7 +113,7 @@ sections:
     template: section_cta
     section_id: call-to-action
     title: We extend an ear to any that may need it
-    subtitle: Contact Us Today to Discuss Your Next Move
+    subtitle: Contact us today to discuss our next move
     actions:
       - type: action
         template: action
