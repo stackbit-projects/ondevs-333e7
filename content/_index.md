@@ -38,7 +38,7 @@ sections:
         actions:
           - type: action
             template: action
-            label: Learn More
+            label: About Us
             url: /about
             style: secondary
             has_icon: true
