@@ -32,7 +32,7 @@ sections:
     features:
       - type: feature_item
         template: feature_item
-        title: 'Make an Imp#'
+        title: Out Of This World
         content: |+
           More than just Techies and marketers. We aim to provide a family 
           feel to business. 
