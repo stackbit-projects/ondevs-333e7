@@ -15,6 +15,15 @@ params:
         label: Home
         url: /
         style: link
+      - label: About
+        url: about
+        style: link
+        has_icon: true
+        icon: arrow-right
+        icon_position: left
+        new_window: false
+        no_follow: false
+        type: action
       - type: action
         template: action
         label: Services
@@ -36,15 +45,6 @@ params:
         style: primary
         has_icon: true
         icon: envelope
-      - label: About
-        url: about
-        style: link
-        has_icon: true
-        icon: arrow-right
-        icon_position: left
-        new_window: false
-        no_follow: false
-        type: action
   footer:
     type: footer
     template: footer
