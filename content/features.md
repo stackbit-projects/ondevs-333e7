@@ -75,7 +75,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: ''
-        subtitle: Web Services
+        subtitle: ''
         price: lorem-ipsum
         details: |
           * Website design using an easy to navigate dashboard
