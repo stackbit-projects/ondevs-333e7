@@ -54,7 +54,7 @@ sections:
         content: >
           As supporters of community projects, and charitable cause we always
           volunteer assistance where possible. 
-        image: /images/Untitled design.jpg
+        image: /images/Untitled design (1).jpg
         image_alt: App users welcoming a new member
         actions:
           - type: action
