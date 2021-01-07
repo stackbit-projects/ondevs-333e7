@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Services
 sections:
   - type: section_content
     template: section_content
