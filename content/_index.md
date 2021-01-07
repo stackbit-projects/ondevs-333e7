@@ -112,7 +112,7 @@ sections:
   - type: section_cta
     template: section_cta
     section_id: call-to-action
-    title: In these trying times we extend an ear to any that may need it
+    title: We extend an ear to any that may need it
     subtitle: Contact Us Today to Discuss Your Next Move
     actions:
       - type: action
