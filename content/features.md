@@ -36,7 +36,7 @@ sections:
         url: '#'
         style: secondary
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Our Areas of Expertise
     subtitle: lorem-ipsum
     background: gray
     type: section_posts
