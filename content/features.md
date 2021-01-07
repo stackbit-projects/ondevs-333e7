@@ -6,20 +6,20 @@ sections:
     section_id: features
     title: Try A Free Video Chat
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Free, secure, and reliable. This is a joint venture between Ondevs and The
+      Light Party, a new age political party for the UK. Requesting a secure and
+      reliable Zoom alternative for their party member meetings, 
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      * End to End encryption option - Zoom does not offer this
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      * Available free for unlimited call length - No 40 min cap
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+      * 50 user screen share or video call
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      They then asked that we open it up to the public in these times of
+      difficulty. Helping connect, friends, family, and colleagues
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     background: gray
