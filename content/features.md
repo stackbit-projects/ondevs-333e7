@@ -6,7 +6,7 @@ sections:
     section_id: features
     title: Try L Chat
     content: >-
-      A British Zoom alternative. Free, secure, and reliable. This is a joint
+      A British, Zoom alternative. Free, secure, and reliable. This is a joint
       venture between Ondevs and The Light Party, a new age political party for
       the UK. Requesting a secure and reliable Zoom alternative for their party
       member meetings, 
