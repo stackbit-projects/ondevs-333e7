@@ -8,10 +8,10 @@ sections:
     section_id: hero
     title: Your “GO TO” for Gold Star Business Services
     content: >
-      Helping Businesses Grow with Money Saving Technology.
+      We help you reach the upper limits.
 
 
-      We provide web solutions, website creation, and a range of marketing
+      Providing technical solutions, website creation, and a range of marketing
       services from leaflet distribution to online advertising. 
     image: /images/nervous-mango.png
     image_alt: App preview
