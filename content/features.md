@@ -65,17 +65,12 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         price: Social Media
-        details: >-
-          ## Lorem ipsum
+        details: |
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Get your products seen by a larger audience
+          Promote your events
+          Build connections with social influencers
+          Get your brand seen by new audiences
         highlight: false
         actions: []
         type: pricing_plan
