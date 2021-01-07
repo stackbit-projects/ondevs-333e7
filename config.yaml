@@ -38,6 +38,7 @@ params:
         url: /contact
         style: primary
         has_icon: true
+        icon: envelope
   footer:
     type: footer
     template: footer
