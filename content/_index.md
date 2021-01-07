@@ -67,7 +67,7 @@ sections:
         template: feature_item
         title: Beam Your Business into 2021
         content: See some examples of our work in action.
-        image: images/feature3.png
+        image: /images/Untitled design (49).png
         image_alt: App user profile preview
         actions:
           - type: action
