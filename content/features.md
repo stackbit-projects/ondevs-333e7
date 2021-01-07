@@ -51,7 +51,7 @@ sections:
     pricing_plans:
       - title: Generate Bookings
         subtitle: Never miss a booking
-        price: lorem-ipsum
+        price: Keep your phone lines free for new customers
         details: >-
           ## Lorem ipsum
 
