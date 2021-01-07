@@ -37,6 +37,7 @@ params:
         label: Contact
         url: /contact
         style: primary
+        has_icon: true
   footer:
     type: footer
     template: footer
