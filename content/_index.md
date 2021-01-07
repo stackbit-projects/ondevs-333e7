@@ -65,7 +65,7 @@ sections:
             icon_position: right
       - type: feature_item
         template: feature_item
-        title: Cutting Edge Tech
+        title: Beam Your Business into 2021
         content: See some examples of our work in action.
         image: images/feature3.png
         image_alt: App user profile preview
