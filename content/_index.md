@@ -6,7 +6,7 @@ sections:
   - type: section_hero
     template: section_hero
     section_id: hero
-    title: Unlike any other.Your “GO TO” for Gold Star Business Services
+    title: Your “GO TO” for Gold Star Business Services
     content: >
       Helping Businesses Grow with Money Saving Technology.
 
