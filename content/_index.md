@@ -33,10 +33,7 @@ sections:
       - type: feature_item
         template: feature_item
         title: Out Of This World
-        content: |+
-          More than just Techies and marketers. We aim to provide a family 
-          feel to business. 
-
+        content: 'Cutting edge services, to propel your business. '
         image: /images/Untitled design (41).png
         image_alt: App preview on a phone and tablet
         actions:
