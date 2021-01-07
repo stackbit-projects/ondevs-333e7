@@ -76,7 +76,7 @@ sections:
         type: pricing_plan
       - title: ''
         subtitle: Web Services
-        price: lorem-ipsum
+        price: Web Services
         details: |
           * Website design using an easy to navigate dashboard
           * Email marketing with impact
