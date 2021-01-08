@@ -139,7 +139,7 @@ sections:
   - section_id: lorem-ipsum
     title: A Safe Choice
     content: >-
-      ## Ensure a confidential partnership
+      ## Ensuring a confident, and confidential partnership
 
 
 
