@@ -137,7 +137,7 @@ sections:
         url: /signup
         style: primary
   - section_id: lorem-ipsum
-    title: A Safe Choicegrowth of your business.
+    title: A Safe Choice
     content: >-
       ## Ensure a confidential partnership
 
