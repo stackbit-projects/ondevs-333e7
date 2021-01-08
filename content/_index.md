@@ -139,7 +139,7 @@ sections:
   - section_id: lorem-ipsum
     title: A Safe Choice
     content: >-
-      ## Ensuring a confident, and confidential partnership
+      **Ensuring a confident, and confidential partnership**
 
 
       We provide SLA and NDA as standard to ensure a confidential partnership
