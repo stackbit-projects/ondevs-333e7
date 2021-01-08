@@ -125,6 +125,17 @@ sections:
           unique ad views and the first sale of services online.£8,000 profit
           for a happy board. With investment including OnDevs Ltd. fees totaling
           £1,500
+  - type: section_cta
+    template: section_cta
+    section_id: call-to-action
+    title: Ready to talk?
+    subtitle: Contact us today to discuss our next move
+    actions:
+      - type: action
+        template: action
+        label: Contact
+        url: /signup
+        style: primary
   - section_id: lorem-ipsum
     title: A Safe Choice
     content: >-
@@ -140,16 +151,5 @@ sections:
     actions: []
     type: section_content
     template: section_content
-  - type: section_cta
-    template: section_cta
-    section_id: call-to-action
-    title: Ready to talk?
-    subtitle: Contact us today to discuss our next move
-    actions:
-      - type: action
-        template: action
-        label: Contact
-        url: /signup
-        style: primary
 layout: landing
 ---
