@@ -28,7 +28,7 @@ sections:
         template: pricing_plan
         title: Marketing
         subtitle: For medium-sized businesses
-        price: $49/m
+        price: £150/m
         details: |-
           * Curabitur non nunc mollis
           * Duis a purus nec ligula pellentesque dolor
