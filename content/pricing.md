@@ -26,7 +26,7 @@ sections:
             style: secondary
       - type: pricing_plan
         template: pricing_plan
-        title: Marketing
+        title: Management
         subtitle: For medium-sized businesses
         price: £150/pm
         details: |-
