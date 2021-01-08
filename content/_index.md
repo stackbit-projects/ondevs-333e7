@@ -92,11 +92,14 @@ sections:
         author: HEPA Duct Servicing
         avatar: images/review1.jpg
         content: >-
-          Converting each day that we resume the campaigns for as little as $3
-          per lead in an industry where the average click is $15. The revenue
-          from one sale exceeded $500 with 80% profit.This enabled the sole
-          trader to set up practice in America, open a small store, buy more
-          equipment, purchase two branded vehicles and hire three new employees.
+          A sole trader, based in a metropolitan American city. A population
+          consisting of wealthy elite. Those either unable, or unwilling to
+          service their own homes. Big homes. Converting each day that we resume
+          the campaigns for as little as $3 per lead in an industry where the
+          average click is $15. The revenue from one sale exceeded $500 with 80%
+          profit. This enabled the sole trader to set up practice in America,
+          open a small store, buy more equipment, purchase two branded vehicles
+          and hire three new employees.
       - type: review_item
         template: review_item
         author: Dental Practitioner
@@ -104,8 +107,8 @@ sections:
         content: >-
           We ran a promotion before the winter holidays, offering a free teeth
           whitening to the established target demographic, increasing patient
-          signups with the use of the treatment.Any subsequent visits and
-          treatments were additional business revenue.In a short month we
+          signups with the use of the treatment. Any subsequent visits and
+          treatments were additional business revenue. In a short month we
           produced 15 new patients. A monumental achievement, and with average
           dental patient lifetime billings being around £46,000. A potential
           £690,000 lifetime value was created in just a month.
@@ -114,8 +117,14 @@ sections:
         author: Eco-Funeral Services
         avatar: images/review3.jpg
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          We put together a comprehensive marketing strategy. Creating a persona
+          for the brand. Utilising rich media both in advertising, social media
+          and for press releases. We created an interest in this product, by
+          first using their media to run impression based marketing on YouTube.
+          With short cinematic clips that contained branding. OverOver 3,000,000
+          unique ad views and the first sale of services online.£8,000 profit
+          for a happy board. With investment including OnDevs Ltd. fees
+          totalling £1,500
   - type: section_cta
     template: section_cta
     section_id: call-to-action
