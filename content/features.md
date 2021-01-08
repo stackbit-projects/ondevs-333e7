@@ -75,7 +75,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: ''
-        subtitle: ''
+        subtitle: Web
         price: Web Services
         details: |
           * Website design using an easy to navigate dashboard
