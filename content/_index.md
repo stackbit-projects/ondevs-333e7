@@ -84,7 +84,7 @@ sections:
     template: section_reviews
     section_id: reviews
     title: Testimonials
-    subtitle: Some feedback from a sample of our many happy customers
+    subtitle: Some feedback from a some of our many happy customers
     background: white
     reviews:
       - type: review_item
