@@ -125,11 +125,6 @@ sections:
           unique ad views and the first sale of services online.£8,000 profit
           for a happy board. With investment including OnDevs Ltd. fees totaling
           £1,500
-      - author: lorem-ipsum
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        type: review_item
   - type: section_cta
     template: section_cta
     section_id: call-to-action
