@@ -46,7 +46,7 @@ sections:
         template: pricing_plan
         title: Creation
         subtitle: For very large businesses
-        price: £75
+        price: £75/pm
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
