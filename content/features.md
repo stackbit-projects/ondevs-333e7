@@ -103,7 +103,7 @@ sections:
         type: pricing_plan
       - title: ''
         subtitle: Advertising
-        price: lorem-ipsum
+        price: Advertising
         details: |-
           * Promote your products and services to buying customers
           * Bring customers to your website affordably
