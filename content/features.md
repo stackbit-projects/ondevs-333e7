@@ -86,7 +86,7 @@ sections:
         type: pricing_plan
       - title: ''
         subtitle: Marketing
-        price: Email Marketing
+        price: Marketing
         details: |-
           * Email marketing with impact
           - SMS marketing reach users on the go
