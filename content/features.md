@@ -87,7 +87,10 @@ sections:
       - title: ''
         subtitle: Marketing
         price: Email Marketing
-        details: '* Email marketing with impact'
+        details: |-
+          * Email marketing with impact
+          - SMS marketing reach users on the go
+          - Traditionsal media, we have buying power for papers and journals
         highlight: false
         actions: []
         type: pricing_plan
