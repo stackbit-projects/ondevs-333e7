@@ -102,12 +102,16 @@ sections:
         author: Dental Practitioner
         avatar: images/review2.jpg
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          We ran a promotion before the winter holidays, offering a free teeth
+          whitening to the established target demographic, increasing patient
+          signups with the use of the treatment.Any subsequent visits and
+          treatments were additional business revenue.In a short month we
+          produced 15 new patients. A monumental achievement, and with average
+          dental patient lifetime billings being around £46,000. A potential
+          £690,000 lifetime value was created in just a month.
       - type: review_item
         template: review_item
-        author: Richard Roe
+        author: Eco-Funeral Services
         avatar: images/review3.jpg
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
