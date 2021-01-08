@@ -137,11 +137,7 @@ sections:
         url: /signup
         style: primary
   - section_id: lorem-ipsum
-    title: >-
-      We provide SLA and NDA as standard to ensure a confidential partnership
-      with high quality results from each project.We work closely with every
-      client to define objectives and key results, focusing on the metrics that
-      are most significant for the growth of your business.
+    title: A Safe Choicegrowth of your business.
     content: >-
       ## Lorem ipsum
 
