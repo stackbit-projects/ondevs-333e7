@@ -102,7 +102,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: ''
-        subtitle: ''
+        subtitle: Advertising
         price: lorem-ipsum
         details: |-
           * Promote your products and services to buying customers
