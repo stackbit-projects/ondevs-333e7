@@ -142,13 +142,6 @@ sections:
       ## Ensuring a confident, and confidential partnership
 
 
-
-
-      - SLA
-
-      - NDA
-
-
       We provide SLA and NDA as standard to ensure a confidential partnership
       with high quality results from each project.We work closely with every
       client to define objectives and key results, focusing on the metrics that
