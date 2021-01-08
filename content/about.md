@@ -7,11 +7,7 @@ image: images/about.jpg
 image_alt: Team members in a conference room
 layout: page
 ---
-Origins in Finance
-
-
-Technically gifted and with a core knowledge of marketing, software, and sales. OnDevs Ltd. was founded for the purpose of serving the Financial Industry.
-
+Origins in Finance. 
 By providing our solutions in order to increase market presence and awareness we were able to generate many leads from enquiries.
 
 Branched into Hospitality
