@@ -102,7 +102,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: ''
-        subtitle: Advertising
+        subtitle: ''
         price: Advertising
         details: |-
           * Promote your products and services to buying customers
