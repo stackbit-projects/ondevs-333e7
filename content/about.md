@@ -1,9 +1,9 @@
 ---
 title: About Us
 subtitle: >-
-  Technically gifted and with a core knowledge of marketing, software, and
-  sales. OnDevs Ltd. was founded for the purpose of serving the Financial
-  Industry.
+  Technically gifted, with a core knowledge of marketing, software, and sales.
+  OnDevs Ltd. Founded with the purpose of serving the Financial Industry. Now
+  offering our services to all sectors.
 image: images/about.jpg
 image_alt: Team members in a conference room
 layout: page
