@@ -92,11 +92,14 @@ sections:
         author: HEPA Duct Servicing
         avatar: images/review1.jpg
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Converting each day that we resume the campaigns for as little as $3
+          per lead in an industry where the average click is $15. The revenue
+          from one sale exceeded $500 with 80% profit.This enabled the sole
+          trader to set up practice in America, open a small store, buy more
+          equipment, purchase two branded vehicles and hire three new employees.
       - type: review_item
         template: review_item
-        author: Jane Roe
+        author: Dental Practitioner
         avatar: images/review2.jpg
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
