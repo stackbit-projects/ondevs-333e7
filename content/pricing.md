@@ -30,9 +30,9 @@ sections:
         subtitle: For medium-sized businesses
         price: £150/pm
         details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
+          * Social
+          * Marketing
+          * Advertising
           * Fusce tempus mi vitae luctus
           * Nullam sollicitudin ante
         highlight: true
