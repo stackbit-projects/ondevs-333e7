@@ -12,7 +12,7 @@ sections:
         template: pricing_plan
         title: Websites
         subtitle: From as little as
-        price: $5/m
+        price: £25/m
         details: |-
           * Lorem ipsum dolor sit amet
           * Mauris a mi tincidunt
