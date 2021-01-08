@@ -46,7 +46,7 @@ sections:
         template: pricing_plan
         title: Creation
         subtitle: For very large businesses
-        price: $149/m
+        price: £75
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
