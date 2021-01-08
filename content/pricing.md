@@ -11,7 +11,7 @@ sections:
       - type: pricing_plan
         template: pricing_plan
         title: Websites
-        subtitle: For small businesses
+        subtitle: From as little as
         price: $5/m
         details: |-
           * Lorem ipsum dolor sit amet
