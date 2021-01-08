@@ -89,7 +89,7 @@ sections:
     reviews:
       - type: review_item
         template: review_item
-        author: John Doe
+        author: HEPA Duct Servicing
         avatar: images/review1.jpg
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
