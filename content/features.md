@@ -118,16 +118,9 @@ sections:
         subtitle: lorem-ipsum
         price: Web RTC
         details: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          In these ever changing times, communcation has never been more
+          important. We offer a selection of video streaming, and conferencing
+          services, which can be fully customised for your needs. 
         highlight: false
         actions: []
         type: pricing_plan
