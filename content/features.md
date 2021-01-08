@@ -79,7 +79,7 @@ sections:
         price: Web Services
         details: |
           * Website design using an easy to navigate dashboard
-          * Email marketing with impact
+          * Modern Apps and static sites
           * Update your website in realtime
         highlight: false
         actions: []
