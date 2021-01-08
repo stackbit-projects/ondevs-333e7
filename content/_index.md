@@ -123,8 +123,8 @@ sections:
           first using their media to run impression based marketing on YouTube.
           With short cinematic clips that contained branding. OverOver 3,000,000
           unique ad views and the first sale of services online.£8,000 profit
-          for a happy board. With investment including OnDevs Ltd. fees
-          totalling £1,500
+          for a happy board. With investment including OnDevs Ltd. fees totaling
+          £1,500
   - type: section_cta
     template: section_cta
     section_id: call-to-action
