@@ -45,7 +45,7 @@ sections:
         no_follow: false
         type: action
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Services Overview
     subtitle: lorem-ipsum
     background: gray
     pricing_plans:
