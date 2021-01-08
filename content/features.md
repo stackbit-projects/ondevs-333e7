@@ -46,7 +46,7 @@ sections:
         type: action
   - section_id: lorem-ipsum
     title: Services Overview
-    subtitle: Select a service to view more
+    subtitle: ''
     background: gray
     pricing_plans:
       - title: ''
