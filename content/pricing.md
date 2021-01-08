@@ -26,7 +26,7 @@ sections:
             style: secondary
       - type: pricing_plan
         template: pricing_plan
-        title: Professional
+        title: Marketing
         subtitle: For medium-sized businesses
         price: $49/m
         details: |-
