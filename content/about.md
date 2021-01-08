@@ -1,8 +1,9 @@
 ---
 title: About Us
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+  Technically gifted and with a core knowledge of marketing, software, and
+  sales. OnDevs Ltd. was founded for the purpose of serving the Financial
+  Industry.
 image: images/about.jpg
 image_alt: Team members in a conference room
 layout: page
