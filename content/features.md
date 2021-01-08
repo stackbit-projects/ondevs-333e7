@@ -95,7 +95,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: ''
-        subtitle: ''
+        subtitle: Content
         price: Content Writing
         details: |
           * Produce engaging content to drive traffic to your products
