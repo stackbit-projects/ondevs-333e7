@@ -85,7 +85,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: ''
-        subtitle: Marketing
+        subtitle: ''
         price: Marketing
         details: |-
           * Email marketing with impact
