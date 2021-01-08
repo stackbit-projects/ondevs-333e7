@@ -115,7 +115,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: ''
         price: Web RTC
         details: >-
           In these ever changing times, communcation has never been more
