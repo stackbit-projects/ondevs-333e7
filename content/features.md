@@ -16,7 +16,7 @@ sections:
 
       * Available free for unlimited call length - No 40 min cap
 
-      * 50 user screen share or video call
+      * 75 user screen share or video call
 
 
       They then asked that we open it up to the public in these times of
