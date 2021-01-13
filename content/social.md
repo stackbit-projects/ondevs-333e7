@@ -86,9 +86,9 @@ sections:
         subtitle: ''
         price: Web Services
         details: |
-          * Website design using an easy to navigate dashboard
-          * Modern Apps and static sites
-          * Update your website in realtime
+          *   Social Media Landing Pages
+          *   Direct audience to specially designed pages, and promotions
+          *   Setup a paid livestream page on your website, or blog
         highlight: false
         actions:
           - label: lorem-ipsum
