@@ -143,11 +143,10 @@ sections:
       - title: ''
         subtitle: ''
         price: Advertising
-        details: |+
+        details: |
           *   Promote your products and services to buying customers
           *   Bring customers to your website affordably
-          *   We can work with any budget of 250 GBP per month
-
+          *   We can work with any budget 
         highlight: false
         actions:
           - label: lorem-ipsum
