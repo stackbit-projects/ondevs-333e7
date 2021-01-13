@@ -143,48 +143,10 @@ sections:
       - title: ''
         subtitle: ''
         price: Advertising
-        details: >+
+        details: |+
           *   Promote your products and services to buying customers
-
           *   Bring customers to your website affordably
-
           *   We can work with any budget of 250 GBP per month
-
-
-          Affordable Digital Advertising
-
-
-          Working with your budget
-
-
-          Case study: you’ve worked with small budgets to start with,but that
-          the reinvestment into marketing was increased because the customer saw
-          results quickly upon their investment
-
-
-          Ad Management
-
-
-          Data driven, and understanding the businesses driven motives. Working
-          with the sales team
-
-
-          Coming up with the ideal pipeline. 
-
-
-          Identify who they are  trying to target and how to drive sales.  
-
-
-          Identifying their drivers. What do you want to do, increase sales?
-          Brand awareness? 
-
-
-          Perspective on company position.
-
-
-          Tax deductible services
-
-
 
         highlight: false
         actions:
