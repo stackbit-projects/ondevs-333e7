@@ -103,25 +103,6 @@ sections:
         type: pricing_plan
       - title: ''
         subtitle: ''
-        price: Marketing
-        details: |-
-          * Email marketing with impact
-          - SMS marketing reach users on the go
-          - Traditionsal media, we have buying power for papers and journals
-        highlight: false
-        actions:
-          - label: lorem-ipsum
-            url: lorem-ipsum
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-        type: pricing_plan
-      - title: ''
-        subtitle: ''
         price: Content Writing
         details: |
           * Produce engaging content to drive traffic to your products
