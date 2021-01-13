@@ -46,7 +46,7 @@ sections:
         label: Free Trial
         url: /signup
         style: primary
-      - label: Light Party
+      - label: 'y'
         url: lightparty.site
         style: secondary
         has_icon: false
