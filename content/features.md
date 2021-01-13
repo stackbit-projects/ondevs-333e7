@@ -137,6 +137,13 @@ sections:
         label: Get Started
         url: '#'
         style: secondary
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    features: []
+    type: section_features
+    template: section_features
 layout: landing
 meta_title: 'services marketing advertising '
 canonical_url: ''
