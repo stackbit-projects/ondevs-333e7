@@ -192,7 +192,7 @@ sections:
         url: '#'
         style: secondary
   - section_id: lorem-ipsum
-    title: 'The three stage process:'
+    title: The On Devs Process
     subtitle: >-
       Understand your needs,Establish goals,Get to know your preferences and
       tastes.
