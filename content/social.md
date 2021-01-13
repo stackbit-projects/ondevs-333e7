@@ -10,8 +10,6 @@ sections:
     section_id: features
     title: Social Media
     content: >
-
-
       *   Instagram
 
       *   Youtube
@@ -20,7 +18,7 @@ sections:
 
       *   Snapchat
 
-      *   &More
+      *   & More
 
 
       We can create customer focused social media marketing strategies, to
