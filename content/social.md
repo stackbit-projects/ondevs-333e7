@@ -10,7 +10,7 @@ sections:
     section_id: features
     title: Social
     content: >
-      # Social Media
+      #
 
 
       *   Instagram
@@ -33,7 +33,7 @@ sections:
 
       From strategy, media design, to management, and integrations. We've you
       covered. Proffesionalstream assistance, stream labs, and pay gating
-      livestreams. Through to Instagram branding, social targeting and more, 
+      livestreams. Through to Instagram branding, social targeting and more,
     image_alt: App preview on a phone and tablet
     background: gray
     actions:
