@@ -30,11 +30,6 @@ sections:
     actions:
       - type: action
         template: action
-        label: View Help
-        url: '#'
-        style: secondary
-      - type: action
-        template: action
         label: Free Trial
         url: /signup
         style: primary
