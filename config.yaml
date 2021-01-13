@@ -31,6 +31,15 @@ params:
         style: link
         has_icon: true
         icon: arrow-right
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
+        type: action
       - type: action
         template: action
         label: Pricing
@@ -45,15 +54,6 @@ params:
         style: primary
         has_icon: true
         icon: envelope
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: left
-        new_window: false
-        no_follow: false
-        type: action
   footer:
     type: footer
     template: footer
