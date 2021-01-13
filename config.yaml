@@ -38,13 +38,6 @@ params:
         style: link
         icon: arrow-right
         has_icon: true
-      - type: action
-        template: action
-        label: Contact
-        url: /contact
-        style: primary
-        has_icon: true
-        icon: envelope
       - label: lorem-ipsum
         url: lorem-ipsum
         style: link
@@ -54,6 +47,13 @@ params:
         new_window: false
         no_follow: false
         type: action
+      - type: action
+        template: action
+        label: Contact
+        url: /contact
+        style: primary
+        has_icon: true
+        icon: envelope
       - label: lorem-ipsum
         url: lorem-ipsum
         style: link
