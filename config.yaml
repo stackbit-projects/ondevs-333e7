@@ -1,7 +1,7 @@
 title: OnDevs
 baseURL: /
 params:
-  palette: blue
+  palette: cyan
   base_font: nunito-sans
   header:
     type: header
