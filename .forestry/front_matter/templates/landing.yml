@@ -48,7 +48,6 @@ fields:
 pages:
   - content/_index.md
   - content/contact.md
-  - content/features.md
   - content/pricing.md
   - content/management.md
   - content/creation.md
