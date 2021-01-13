@@ -228,17 +228,21 @@ sections:
         actions: []
         type: feature_item
       - title: '3'
-        content: >-
+        content: >
           ## Lorem ipsum
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Our expert team of web and marketing experts work tirelessly to bring
+          all aspects together seamlessly. From design, to development.
+          Research, to deployment.
 
 
-          - Lorem ipsum
+          You sign off, we deploy
 
-          - dolor sit amet
+
+          *   Lorem ipsum
+
+          *   dolor sit amet
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
