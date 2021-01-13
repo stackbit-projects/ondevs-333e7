@@ -200,8 +200,6 @@ sections:
         content: |
           ### **We provide a consultation, and audit**
 
-          ######
-
           *   Understand your needs and goals
 
           *   Audit; web, social, and any other existing online service
