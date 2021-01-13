@@ -139,25 +139,6 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
-      - title: ''
-        subtitle: ''
-        price: Advertising
-        details: |
-          *   Promote your products and services to buying customers
-          *   Bring customers to your website affordably
-          *   We can work with any budget 
-        highlight: false
-        actions:
-          - label: lorem-ipsum
-            url: lorem-ipsum
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-        type: pricing_plan
     type: section_pricing
     template: section_pricing
   - type: section_cta
