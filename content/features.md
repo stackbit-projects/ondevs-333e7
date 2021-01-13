@@ -194,8 +194,8 @@ sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: >-
-      The three stage process:Understand your needs,Establish goals,Get to know
-      your preferences and tastes.
+      Understand your needs,Establish goals,Get to know your preferences and
+      tastes.
     background: gray
     features:
       - title: The On Devs Process
