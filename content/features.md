@@ -217,7 +217,6 @@ sections:
           any additives that may be required for the website
 
 
-          \*\*\*
 
 
           *   Business name, address, and  contact info.
