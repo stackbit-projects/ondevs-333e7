@@ -46,7 +46,7 @@ sections:
         label: Free Trial
         url: /signup
         style: primary
-      - label: 'y'
+      - label: Contact
         url: lightparty.site
         style: secondary
         has_icon: false
