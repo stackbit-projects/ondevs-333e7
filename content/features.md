@@ -196,7 +196,7 @@ sections:
     subtitle: 'The three stage process:'
     background: gray
     features:
-      - title: lorem-ipsum
+      - title: '1'
         content: >-
           ## Lorem ipsum
 
