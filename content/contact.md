@@ -34,7 +34,6 @@ sections:
           - General Enquiry
           - Request Callback
           - Error on the site
-          - Other
           - null
       - type: form_field
         template: form_field
