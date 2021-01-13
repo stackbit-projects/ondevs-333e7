@@ -62,7 +62,7 @@ sections:
         type: pricing_plan
       - title: ''
         subtitle: Web
-        price: Web Services
+        price: Web
         details: |
           *   Social Media Landing Pages
           *   Direct audience to specially designed pages, and promotions
