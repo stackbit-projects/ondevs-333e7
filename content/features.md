@@ -197,56 +197,7 @@ sections:
       Understand your needs,Establish goals,Get to know your preferences and
       tastes.
     background: gray
-    features:
-      - title: The On Devs Process
-        content: >
-          ## The On Devs Process
-
-
-
-
-          *   Understand your needs,
-
-          *   Establish goals,
-
-          *   Get to know your preferences and tastes.
-
-
-          1\)
-
-
-          We provide a consultation, and if necessary an audit. Whilst doing so
-          we aim to;
-
-
-          Understand your needs,
-
-
-          Establish goals,
-
-
-          Get to know your preferences and tastes.
-
-
-          2\)
-
-
-          You provide us with the necessary information about your business, and
-          any additives that may be required for the website.
-
-
-          3\)
-
-
-          Our expert team of web and marketing experts work tirelessly to bring
-          all aspects together seamlessly. From design, to development.
-          Research, to deployment.
-
-
-          You sign off, we deploy
-        image_alt: lorem-ipsum
-        actions: []
-        type: feature_item
+    features: []
     type: section_features
     template: section_features
 layout: landing
