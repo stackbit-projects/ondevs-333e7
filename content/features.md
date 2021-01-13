@@ -202,13 +202,16 @@ sections:
           doing so we aim to;**
 
 
-          *   Understand your needs, 
+          ###### **asdasdasd**
+
+
+          *   Understand your needs,
 
 
           *   Establish goals, **
 
 
-          *   Get to know your preferences and tastes. 
+          *   Get to know your preferences and tastes.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
