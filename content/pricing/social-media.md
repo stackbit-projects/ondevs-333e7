@@ -9,7 +9,7 @@ sections:
     template: section_pricing
     section_id: pricing
     title: Media for Social Media
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: 'All you and your business needs from graphics, too custom logos'
     background: gray
     pricing_plans:
       - type: pricing_plan
