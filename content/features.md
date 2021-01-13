@@ -197,21 +197,18 @@ sections:
     background: gray
     features:
       - title: '1'
-        content: >+
+        content: >
           ### **We provide a consultation, and if necessary an audit. Whilst
           doing so we aim to;**
 
 
+          *   \**Understand your needs, **
 
 
-          *   **Understand your needs, **
+          *   \**Establish goals, **
 
 
-          *   **Establish goals, **
-
-
-          *   **Get to know your preferences and tastes. **
-
+          *   \**Get to know your preferences and tastes. **
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
