@@ -63,28 +63,6 @@ sections:
     pricing_plans:
       - title: ''
         subtitle: ''
-        price: Generate Bookings
-        details: |-
-
-
-          - Fill your cancelled appointments quickly
-          - Easy to use appointment making system
-          - Keep your phone lines free for new customers
-          - Never miss a booking
-        highlight: false
-        actions:
-          - label: lorem-ipsum
-            url: lorem-ipsum
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-        type: pricing_plan
-      - title: ''
-        subtitle: ''
         price: Social Media
         details: |
 
