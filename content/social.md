@@ -61,7 +61,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: ''
-        subtitle: Web
+        subtitle: ''
         price: Web
         details: |
           *   Social Media Landing Pages
