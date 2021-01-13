@@ -210,13 +210,11 @@ sections:
         type: feature_item
       - title: '2'
         content: >
-          ## Lorem ipsum
+          ## Info 
 
 
           You provide us with the necessary information about your business, and
           any additives that may be required for the website
-
-
 
 
           *   Business name, address, and  contact info.
