@@ -220,6 +220,9 @@ sections:
           any additives that may be required for the website
 
 
+          \*\*\*
+
+
           *   Business name, address, and  contact info.
 
           *   Business category, target audience, and current sales process.
