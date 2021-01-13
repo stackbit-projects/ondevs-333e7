@@ -71,16 +71,7 @@ sections:
           - Build connections with social influencers
           - Get your brand seen by new audiences
         highlight: false
-        actions:
-          - label: lorem-ipsum
-            url: lorem-ipsum
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         type: pricing_plan
       - title: ''
         subtitle: Web
