@@ -233,16 +233,23 @@ sections:
 
 
           Our expert team of web and marketing experts work tirelessly to bring
-          all aspects together seamlessly. From design, to development.
-          Research, to deployment.
+          all aspects together seamlessly. t.
 
 
           You sign off, we deploy
 
 
-          *   Lorem ipsum
+          *   Research
 
-          *   dolor sit amet
+          *   Design
+
+
+          <!---->
+
+
+          *   Develop
+
+          *   Deploy
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
