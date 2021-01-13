@@ -9,22 +9,31 @@ sections:
     template: section_content
     section_id: features
     title: Social
-    content: >-
-      A British, Zoom alternative. Free, secure, and reliable. This is a joint
-      venture between Ondevs and The Light Party, a new age political party for
-      the UK. Requesting a secure and reliable Zoom alternative for their party
-      member meetings, 
+    content: >
+      # Social Media
 
 
-      * End to End encryption option - Zoom does not offer this
+      *   Instagram
 
-      * Available free for unlimited call length - No 40 min cap
+      *   Youtube
 
-      * 75 user screen share or video call
+      *   Facebook
+
+      *   Snapchat
+
+      *   &More
 
 
-      They then asked that we open it up to the public in these times of
-      difficulty. Helping connect, friends, family, and colleagues
+      We can create customer focused social media marketing strategies, to
+      increase brand awareness and help you in speaking with other companies in
+      your sector, who will want to promote you. We will help develop your
+      company’s Social Media brand image by consistently posting high quality,
+      engaging content that is visually appealing.
+
+
+      From strategy, media design, to management, and integrations. We've you
+      covered. Proffesionalstream assistance, stream labs, and pay gating
+      livestreams
     image_alt: App preview on a phone and tablet
     background: gray
     actions:
