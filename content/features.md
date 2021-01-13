@@ -197,17 +197,21 @@ sections:
     background: gray
     features:
       - title: '1'
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          ### **We provide a consultation, and if necessary an audit. Whilst
+          doing so we aim to;**
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   **Understand your needs, **
 
-          - dolor sit amet
+
+          *   **Establish goals, **
+
+
+          *   **Get to know your preferences and tastes. **
+
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
