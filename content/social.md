@@ -10,7 +10,6 @@ sections:
     section_id: features
     title: Social Media
     content: >
-      #
 
 
       *   Instagram
