@@ -198,7 +198,7 @@ sections:
     features:
       - title: '1'
         content: |
-          ### **We provide a consultation, and audit**
+          ### **Consultation, and audit**
 
           *   Understand your needs and goals
 
