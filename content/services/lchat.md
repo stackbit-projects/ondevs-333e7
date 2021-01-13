@@ -28,11 +28,6 @@ sections:
     image_alt: App preview on a phone and tablet
     background: gray
     actions:
-      - type: action
-        template: action
-        label: Free Trial
-        url: /signup
-        style: primary
       - label: Light Party
         url: lightparty.site
         style: secondary
