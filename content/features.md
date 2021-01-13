@@ -213,17 +213,17 @@ sections:
         actions: []
         type: feature_item
       - title: '2'
-        content: >-
+        content: >
           ## Lorem ipsum
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          You provide us with the necessary information about your business, and
+          any additives that may be required for the website
 
 
-          - Lorem ipsum
+          *   Business name, address, and  contact info.
 
-          - dolor sit amet
+          *   Business category, target audience, and current sales process.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
