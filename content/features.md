@@ -196,7 +196,7 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     features:
-      - title: lorem-ipsum
+      - title: The On Devs Process
         content: >
           ## The On Devs Process
 
