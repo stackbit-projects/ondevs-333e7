@@ -39,11 +39,6 @@ sections:
         label: View Help
         url: '#'
         style: secondary
-      - type: action
-        template: action
-        label: Free Trial
-        url: /signup
-        style: primary
       - label: Contact
         url: lightparty.site
         style: secondary
