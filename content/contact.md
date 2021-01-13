@@ -32,8 +32,8 @@ sections:
         default_value: Please select
         options:
           - General Enquiry
-          - Error on the site
           - Request Callback
+          - Error on the site
           - Other
           - null
       - type: form_field
