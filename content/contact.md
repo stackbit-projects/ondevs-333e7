@@ -32,7 +32,7 @@ sections:
         default_value: Please select
         options:
           - Error on the site
-          - Sponsorship
+          - General Enq
           - Other
       - type: form_field
         template: form_field
