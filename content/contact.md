@@ -33,7 +33,6 @@ sections:
         options:
           - Error on the site
           - General Enquiry
-          - Consultation
           - Request Callback
           - Other
       - type: form_field
