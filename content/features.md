@@ -203,7 +203,6 @@ sections:
           ## The On Devs Process
 
 
-          The three stage process:
 
 
           *   Understand your needs,
