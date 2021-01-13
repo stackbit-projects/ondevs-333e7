@@ -8,7 +8,7 @@ sections:
   - type: section_content
     template: section_content
     section_id: features
-    title: Social Media
+    title: Booking
     content: >
       *   Instagram
 
