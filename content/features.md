@@ -224,14 +224,12 @@ sections:
         actions: []
         type: feature_item
       - title: '3'
-        content: >+
-          ## Lorem ipsum
+        content: >
+          ## Create
 
 
           Our expert team of web and marketing experts work tirelessly to bring
           all aspects together seamlessly. You sign off, we deploy
-
-
 
 
           *   Research
@@ -245,7 +243,6 @@ sections:
           *   Develop
 
           *   Deploy
-
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
