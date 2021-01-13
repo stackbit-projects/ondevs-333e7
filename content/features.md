@@ -130,7 +130,16 @@ sections:
           * Bring customers to your website affordably
           * We can work with any budget of 250 GBP per month
         highlight: false
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
         type: pricing_plan
       - title: ''
         subtitle: ''
