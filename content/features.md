@@ -197,18 +197,18 @@ sections:
     background: gray
     features:
       - title: lorem-ipsum
-        content: >+
-          ## The On Devs Process 
+        content: >
+          ## The On Devs Process
 
 
           The three stage process:
 
 
-          *   Understand your needs, 
+          *   Understand your needs,
 
-          *   Establish goals, 
+          *   Establish goals,
 
-          *   Get to know your preferences and tastes. 
+          *   Get to know your preferences and tastes.
 
 
           1\)
@@ -218,20 +218,20 @@ sections:
           we aim to;
 
 
-          Understand your needs, 
+          Understand your needs,
 
 
-          Establish goals, 
+          Establish goals,
 
 
-          Get to know your preferences and tastes. 
+          Get to know your preferences and tastes.
 
 
           2\)
 
 
           You provide us with the necessary information about your business, and
-          any additives that may be required for the website. 
+          any additives that may be required for the website.
 
 
           3\)
@@ -243,7 +243,6 @@ sections:
 
 
           You sign off, we deploy
-
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
