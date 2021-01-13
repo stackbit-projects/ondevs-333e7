@@ -34,11 +34,6 @@ sections:
     image_alt: App preview on a phone and tablet
     background: gray
     actions:
-      - type: action
-        template: action
-        label: View Help
-        url: '#'
-        style: secondary
       - label: Contact
         url: lightparty.site
         style: secondary
