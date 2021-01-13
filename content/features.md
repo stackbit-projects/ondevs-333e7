@@ -212,7 +212,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-      - title: lorem-ipsum
+      - title: '2'
         content: >-
           ## Lorem ipsum
 
