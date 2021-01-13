@@ -33,9 +33,9 @@ sections:
         options:
           - Error on the site
           - General Enquiry
-          - Other
           - Consultation
           - Request Callback
+          - Other
       - type: form_field
         template: form_field
         input_type: textarea
