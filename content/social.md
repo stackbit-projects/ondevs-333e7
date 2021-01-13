@@ -8,7 +8,7 @@ sections:
   - type: section_content
     template: section_content
     section_id: features
-    title: Try L Chat
+    title: Social
     content: >-
       A British, Zoom alternative. Free, secure, and reliable. This is a joint
       venture between Ondevs and The Light Party, a new age political party for
