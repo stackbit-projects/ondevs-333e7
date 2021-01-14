@@ -55,7 +55,7 @@ sections:
     pricing_plans:
       - title: Design
         subtitle: ''
-        price: C
+        price: Creation
         details: |
           *   Fill your cancelled appointments quickly
           *   Easy to use appointment making system
