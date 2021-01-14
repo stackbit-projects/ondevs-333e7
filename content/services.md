@@ -74,7 +74,7 @@ sections:
             type: action
         type: pricing_plan
       - title: Creation
-        subtitle: ''
+        subtitle: Creation
         price: Social Media
         details: |
 
