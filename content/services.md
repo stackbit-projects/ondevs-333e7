@@ -117,9 +117,9 @@ sections:
         subtitle: ''
         price: Management
         details: |
-          * Produce engaging content to drive traffic to your products
-          * Create bookings with new customers
-          * Pay your employees salary with the content we write
+          *   Bookings
+          *   Digital Advertising
+          *   Social media management
         highlight: false
         actions:
           - label: Learn More
