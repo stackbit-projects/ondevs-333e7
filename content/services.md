@@ -53,7 +53,7 @@ sections:
     subtitle: ''
     background: gray
     pricing_plans:
-      - title: ''
+      - title: Design
         subtitle: ''
         price: Generate Bookings
         details: |-
