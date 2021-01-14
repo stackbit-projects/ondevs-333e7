@@ -97,10 +97,12 @@ sections:
       - title: ''
         subtitle: ''
         price: Development
-        details: |-
-          * Email marketing with impact
-          - SMS marketing reach users on the go
-          - Traditionsal media, we have buying power for papers and journals
+        details: |
+          *   Software
+
+          *   Apps
+
+          *   Websites 
         highlight: false
         actions:
           - label: Learn More
