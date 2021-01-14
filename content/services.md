@@ -97,25 +97,6 @@ sections:
       - title: ''
         subtitle: ''
         price: Development
-        details: |
-          * Website design using an easy to navigate dashboard
-          * Modern Apps and static sites
-          * Update your website in realtime
-        highlight: false
-        actions:
-          - label: lorem-ipsum
-            url: lorem-ipsum
-            style: secondary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-        type: pricing_plan
-      - title: ''
-        subtitle: ''
-        price: Development
         details: |-
           * Email marketing with impact
           - SMS marketing reach users on the go
