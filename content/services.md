@@ -84,7 +84,7 @@ sections:
           - Get your brand seen by new audiences
         highlight: false
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: lorem-ipsum
             style: secondary
             has_icon: false
