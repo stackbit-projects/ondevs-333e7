@@ -112,16 +112,17 @@ sections:
         type: feature_item
       - title: '2'
         content: >
-          ## Info 
+          ## Info
 
 
           You provide us with the necessary information about your business, and
           any additives that may be required for the website
 
 
-          *   Business name, address, and  contact info.
+          Business name, address, and  contact info.
 
-          *   Business category, target audience, and current sales process.
+
+          Business category, target audience, and current sales process.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
