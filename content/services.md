@@ -76,12 +76,13 @@ sections:
       - title: Creation
         subtitle: Creation
         price: Design
-        details: |
+        details: |+
+          *   Website design
 
-          - Get your products seen by a larger audience
-          - Promote your events
-          - Build connections with social influencers
-          - Get your brand seen by new audiences
+          <!---->
+
+          *   Logo's, graphics and branding
+
         highlight: false
         actions:
           - label: Learn More
