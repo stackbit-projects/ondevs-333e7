@@ -55,7 +55,7 @@ sections:
     pricing_plans:
       - title: Design
         subtitle: ''
-        price: Generate Bookings
+        price: C
         details: |
           *   Fill your cancelled appointments quickly
           *   Easy to use appointment making system
