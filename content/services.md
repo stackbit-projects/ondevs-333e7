@@ -122,7 +122,7 @@ sections:
           * Pay your employees salary with the content we write
         highlight: false
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: lorem-ipsum
             style: secondary
             has_icon: false
