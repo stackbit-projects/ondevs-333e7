@@ -96,7 +96,7 @@ sections:
         type: pricing_plan
       - title: ''
         subtitle: ''
-        price: Web Services
+        price: Development
         details: |
           * Website design using an easy to navigate dashboard
           * Modern Apps and static sites
