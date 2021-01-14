@@ -102,11 +102,11 @@ sections:
         content: |
           ### **Consultation, and audit**
 
-          *   Understand your needs and goals
+          Understand your needs and goals
 
-          *   Audit; web, social, and any other existing online service
+          Audit; web, social, and any other existing online service
 
-          *   Get to know your preferences and tastes.
+          Get to know your preferences and tastes.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
