@@ -10,15 +10,16 @@ sections:
     section_id: features
     title: Design
     content: >
-      *   Instagram
+      *   Web design
 
-      *   Youtube
+      *   Landing Pages
 
-      *   Facebook
+      *   Graphics
 
-      *   Snapchat
+      *   Promotional materials: flyer, leaflet, booklet, voucher, business
+      card, 
 
-      *   & More
+      *   Branding
 
 
       We can create customer focused social media marketing strategies, to
@@ -26,6 +27,9 @@ sections:
       your sector, who will want to promote you. We will help develop your
       company’s Social Media brand image by consistently posting high quality,
       engaging content that is visually appealing.
+
+
+      We structure your website and the landing pages
 
 
       From strategy, media design, to management, and integrations. We've you
