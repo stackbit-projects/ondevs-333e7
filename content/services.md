@@ -73,7 +73,7 @@ sections:
             no_follow: false
             type: action
         type: pricing_plan
-      - title: Creation
+      - title: '#'
         subtitle: ''
         price: Design
         details: |
