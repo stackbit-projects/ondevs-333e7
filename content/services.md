@@ -57,10 +57,10 @@ sections:
         subtitle: ''
         price: Creation
         details: |
-          *   Content: Specialist content writers 
+          *   Content: Specialist content writers
           *   Ads: Leverage the power of modern media
           *   Media: Captivating media for socials, print, and web
-          *   Marketing: Send custom Email campaigns, and more
+          *   Marketing: Send custom email campaigns, and more
         highlight: false
         actions:
           - label: Learn More
