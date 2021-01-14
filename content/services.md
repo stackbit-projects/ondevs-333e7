@@ -64,7 +64,7 @@ sections:
         highlight: false
         actions:
           - label: Learn More
-            url: noitaerc/
+            url: /creation
             style: secondary
             has_icon: false
             icon: arrow-left
