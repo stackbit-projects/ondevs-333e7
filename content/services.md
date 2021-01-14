@@ -74,7 +74,7 @@ sections:
             type: action
         type: pricing_plan
       - title: Creation
-        subtitle: Creation
+        subtitle: ''
         price: Design
         details: |
           *   Website design
