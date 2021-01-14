@@ -75,7 +75,7 @@ sections:
         type: pricing_plan
       - title: Creation
         subtitle: Creation
-        price: Des
+        price: Design
         details: |
 
           - Get your products seen by a larger audience
