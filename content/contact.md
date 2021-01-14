@@ -6,8 +6,6 @@ sections:
     section_id: contact
     title: Contact
     content: |
-      Contact Us
-
       Get in touch today!
     background: gray
     form_id: contactForm
