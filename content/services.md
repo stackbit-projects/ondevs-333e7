@@ -56,13 +56,11 @@ sections:
       - title: Design
         subtitle: ''
         price: Generate Bookings
-        details: |-
-
-
-          - Fill your cancelled appointments quickly
-          - Easy to use appointment making system
-          - Keep your phone lines free for new customers
-          - Never miss a booking
+        details: |
+          *   Fill your cancelled appointments quickly
+          *   Easy to use appointment making system
+          *   Keep your phone lines free for new customers
+          *   Never miss a booking
         highlight: false
         actions:
           - label: lorem-ipsum
