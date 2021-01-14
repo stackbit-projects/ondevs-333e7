@@ -53,7 +53,7 @@ sections:
     subtitle: ''
     background: gray
     pricing_plans:
-      - title: Design
+      - title: ''
         subtitle: ''
         price: Creation
         details: |
