@@ -125,7 +125,7 @@ sections:
         highlight: false
         actions:
           - label: Learn More
-            url: lorem-ipsum
+            url: /management
             style: secondary
             has_icon: false
             icon: arrow-left
