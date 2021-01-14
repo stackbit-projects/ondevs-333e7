@@ -134,7 +134,7 @@ sections:
         type: pricing_plan
       - title: ''
         subtitle: ''
-        price: Content Writing
+        price: Ma
         details: |
           * Produce engaging content to drive traffic to your products
           * Create bookings with new customers
