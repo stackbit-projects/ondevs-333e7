@@ -75,7 +75,7 @@ sections:
         type: pricing_plan
       - title: Creation
         subtitle: Creation
-        price: Social Media
+        price: Des
         details: |
 
           - Get your products seen by a larger audience
