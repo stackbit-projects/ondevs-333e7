@@ -76,13 +76,14 @@ sections:
       - title: Creation
         subtitle: Creation
         price: Design
-        details: |+
+        details: |
           *   Website design
 
-          <!---->
+          *   Graphics
+
+          *   Branding
 
           *   Logo's, graphics and branding
-
         highlight: false
         actions:
           - label: Learn More
