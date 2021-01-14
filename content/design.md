@@ -9,7 +9,7 @@ sections:
     template: section_content
     section_id: features
     title: Design
-    content: >
+    content: >+
       *   Web design
 
       *   Landing Pages
@@ -17,24 +17,15 @@ sections:
       *   Graphics
 
       *   Promotional materials: flyer, leaflet, booklet, voucher, business
-      card, 
+      card,
 
       *   Branding
 
 
-      We can create customer focused social media marketing strategies, to
-      increase brand awareness and help you in speaking with other companies in
-      your sector, who will want to promote you. We will help develop your
-      company’s Social Media brand image by consistently posting high quality,
-      engaging content that is visually appealing.
 
 
       We structure your website and the landing pages
 
-
-      From strategy, media design, to management, and integrations. We've you
-      covered. Proffesionalstream assistance, stream labs, and pay gating
-      livestreams. Through to Instagram branding, social targeting and more,
     image_alt: App preview on a phone and tablet
     background: gray
     actions:
