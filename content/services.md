@@ -63,7 +63,7 @@ sections:
           *   Marketing: Send custom Email campaigns, and more
         highlight: false
         actions:
-          - label: SEE MORE
+          - label: VIEW MORE
             url: lorem-ipsum
             style: secondary
             has_icon: false
