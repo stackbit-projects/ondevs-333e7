@@ -79,8 +79,6 @@ sections:
         details: |
           *   Website design
 
-          *   Graphics
-
           *   Branding
 
           *   Logo's, graphics and branding
