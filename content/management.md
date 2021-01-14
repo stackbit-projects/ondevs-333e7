@@ -10,7 +10,7 @@ sections:
     section_id: features
     title: Management
     content: >
-      # Social Media
+      ### Social Media
 
 
       *   Instagram
