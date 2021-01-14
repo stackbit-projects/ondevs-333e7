@@ -103,7 +103,7 @@ sections:
           - Traditionsal media, we have buying power for papers and journals
         highlight: false
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: lorem-ipsum
             style: secondary
             has_icon: false
