@@ -34,7 +34,7 @@ sections:
           - General Enquiry
           - Request Callback
           - Error on the site
-          - null
+          - Other
       - type: form_field
         template: form_field
         input_type: textarea
