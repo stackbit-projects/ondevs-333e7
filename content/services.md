@@ -85,7 +85,7 @@ sections:
         highlight: false
         actions:
           - label: Learn More
-            url: /Design
+            url: /design
             style: secondary
             has_icon: false
             icon: arrow-left
