@@ -57,10 +57,10 @@ sections:
         subtitle: ''
         price: Creation
         details: |
-          *   Fill your cancelled appointments quickly
-          *   Easy to use appointment making system
-          *   Keep your phone lines free for new customers
-          *   Never miss a booking
+          *   Content: Specialist content writers 
+          *   Ads: Leverage the power of modern media
+          *   Media: Captivating media for socials, print, and web
+          *   Marketing: Send custom Email campaigns, and more
         highlight: false
         actions:
           - label: lorem-ipsum
