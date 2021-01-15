@@ -87,7 +87,7 @@ params:
           - type: action
             template: action
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/company/ondevs'
             style: link
             has_icon: true
             icon: linkedin
