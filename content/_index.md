@@ -134,7 +134,7 @@ sections:
       - type: action
         template: action
         label: Contact
-        url: /signup
+        url: /contact
         style: primary
   - section_id: lorem-ipsum
     title: A Safe Choice
