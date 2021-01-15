@@ -146,6 +146,8 @@ sections:
       with high quality results from each project.We work closely with every
       client to define objectives and key results, focusing on the metrics that
       are most significant for the 
+      <script async src="https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"></script>
+<div hidden id="snipcart" data-api-key="YOUR_PUBLIC_API_KEY"></div>
     image_alt: lorem-ipsum
     background: gray
     actions: []
