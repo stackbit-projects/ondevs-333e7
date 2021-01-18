@@ -7,7 +7,7 @@ params:
   header:
     type: header
     template: header
-    logo_img: "/images/OD.png"
+    logo_img: "/images/od-1-1.png"
     logo_img_alt: OnDevs
     has_nav: true
     nav_links:
