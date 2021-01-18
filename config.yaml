@@ -1,138 +1,191 @@
+---
 title: OnDevs
-baseURL: /
+baseURL: "/"
 params:
   palette: cyan
   base_font: nunito-sans
   header:
     type: header
     template: header
-    logo_img: /images/OD.png
+    logo_img: "/images/OD.png"
     logo_img_alt: OnDevs
     has_nav: true
     nav_links:
-      - type: action
-        template: action
-        label: Home
-        url: /
-        style: link
-      - label: About
-        url: about
-        style: link
-        has_icon: true
-        icon: arrow-right
-        icon_position: left
-        new_window: false
-        no_follow: false
-        type: action
-      - type: action
-        template: action
-        label: Services
-        url: /services
-        style: link
-        has_icon: true
-        icon: arrow-right
-      - type: action
-        template: action
-        label: Contact
-        url: /contact
-        style: primary
-        has_icon: true
-        icon: envelope
+    - type: action
+      template: action
+      label: Home
+      url: "/"
+      style: link
+      has_icon: false
+      icon: ''
+      icon_position: ''
+      new_window: false
+      no_follow: false
+    - label: About
+      url: about
+      style: link
+      has_icon: true
+      icon: arrow-right
+      icon_position: left
+      new_window: false
+      no_follow: false
+      type: action
+    - type: action
+      template: action
+      label: Services
+      url: "/services"
+      style: link
+      has_icon: true
+      icon: arrow-right
+      icon_position: ''
+      new_window: false
+      no_follow: false
+    - type: action
+      template: action
+      label: Contact
+      url: "/contact"
+      style: primary
+      has_icon: true
+      icon: envelope
+      icon_position: ''
+      new_window: false
+      no_follow: false
   footer:
     type: footer
     template: footer
     sections:
-      - type: footer_text
-        template: footer_text
-        image: /images/blue-celery.png
-        image_alt: Footer logo
-        image_url: /
-        content: 'OnDevs, because business never stops'
-      - type: footer_nav
-        template: footer_nav
-        title: Company
-        nav_links:
-          - type: action
-            template: action
-            label: About Us
-            url: /about
-            style: link
-          - type: action
-            template: action
-            label: Blog
-            url: /blog
-            style: link
-          - type: action
-            template: action
-            label: Sign Up
-            url: /signup
-            style: link
-          - type: action
-            template: action
-            label: Contact
-            url: /contact
-            style: link
-      - type: footer_nav
-        template: footer_nav
-        title: Community
-        nav_links:
-          - type: action
-            template: action
-            label: Twitter
-            url: 'https://twitter.com/ondevs_ceo?lang=en'
-            style: link
-            has_icon: true
-            icon: twitter
-            icon_position: left
-          - type: action
-            template: action
-            label: LinkedIn
-            url: 'https://www.linkedin.com/company/ondevs'
-            style: link
-            has_icon: true
-            icon: linkedin
-            icon_position: left
-          - type: action
-            template: action
-            label: Facebook
-            url: 'https://github.com/'
-            style: link
-            has_icon: true
-            icon: facebook
-            icon_position: left
-      - type: footer_form
-        template: footer_form
-        title: Subscribe
-        content: Stay up to date with our latest developments.
-        form_id: contactForm
-        hide_labels: true
-        form_fields:
-          - type: form_field
-            template: form_field
-            input_type: email
-            name: email
-            label: Email
-            default_value: Enter email address
-            is_required: true
-        submit_label: Subscribe
+    - type: footer_text
+      template: footer_text
+      image: "/images/blue-celery.png"
+      image_alt: Footer logo
+      image_url: "/"
+      content: OnDevs, because business never stops
+      title: ''
+    - type: footer_nav
+      template: footer_nav
+      title: Company
+      nav_links:
+      - type: action
+        template: action
+        label: About Us
+        url: "/about"
+        style: link
+        has_icon: false
+        icon: ''
+        icon_position: ''
+        new_window: false
+        no_follow: false
+      - type: action
+        template: action
+        label: Blog
+        url: "/blog"
+        style: link
+        has_icon: false
+        icon: ''
+        icon_position: ''
+        new_window: false
+        no_follow: false
+      - type: action
+        template: action
+        label: Sign Up
+        url: "/signup"
+        style: link
+        has_icon: false
+        icon: ''
+        icon_position: ''
+        new_window: false
+        no_follow: false
+      - type: action
+        template: action
+        label: Contact
+        url: "/contact"
+        style: link
+        has_icon: false
+        icon: ''
+        icon_position: ''
+        new_window: false
+        no_follow: false
+    - type: footer_nav
+      template: footer_nav
+      title: Community
+      nav_links:
+      - type: action
+        template: action
+        label: Twitter
+        url: https://twitter.com/ondevs_ceo?lang=en
+        style: link
+        has_icon: true
+        icon: twitter
+        icon_position: left
+        new_window: false
+        no_follow: false
+      - type: action
+        template: action
+        label: LinkedIn
+        url: https://www.linkedin.com/company/ondevs
+        style: link
+        has_icon: true
+        icon: linkedin
+        icon_position: left
+        new_window: false
+        no_follow: false
+      - type: action
+        template: action
+        label: Facebook
+        url: https://github.com/
+        style: link
+        has_icon: true
+        icon: facebook
+        icon_position: left
+        new_window: false
+        no_follow: false
+    - type: footer_form
+      template: footer_form
+      title: Subscribe
+      content: Stay up to date with our latest developments.
+      form_id: contactForm
+      hide_labels: true
+      form_fields:
+      - type: form_field
+        template: form_field
+        input_type: email
+        name: email
+        label: Email
+        default_value: Enter email address
+        is_required: true
+        options: []
+      submit_label: Subscribe
+      form_action: ''
     has_nav: true
     nav_links:
-      - type: action
-        template: action
-        label: Terms of Service
-        url: /terms-of-service
-        style: link
-      - type: action
-        template: action
-        label: Privacy Policy
-        url: /privacy-policy
-        style: link
-    content: "Static site created by\_OnDevs. All rights reserved."
+    - type: action
+      template: action
+      label: Terms of Service
+      url: "/terms-of-service"
+      style: link
+      has_icon: false
+      icon: ''
+      icon_position: ''
+      new_window: false
+      no_follow: false
+    - type: action
+      template: action
+      label: Privacy Policy
+      url: "/privacy-policy"
+      style: link
+      has_icon: false
+      icon: ''
+      icon_position: ''
+      new_window: false
+      no_follow: false
+    content: Static site created by OnDevs. All rights reserved.
+    links: []
   domain: ondevs.com
-  favicon: /images/magical-sun.png
+  favicon: "/images/od-1-1.png"
 taxonomies:
   stub: stub
 disableKinds:
-  - RSS
-  - taxonomy
-  - taxonomyTerm
+- RSS
+- taxonomy
+- taxonomyTerm
+uglyURLs: false
