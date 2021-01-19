@@ -52,6 +52,12 @@ sections:
         label: Get Started
         url: '#'
         style: secondary
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    pricing_plans: []
+    type: section_pricing
 layout: landing
 meta_title: 'services marketing advertising '
 canonical_url: ''
