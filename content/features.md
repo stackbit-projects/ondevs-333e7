@@ -103,7 +103,6 @@ sections:
         label: Get Started
         url: '#'
         style: secondary
-  - null
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
