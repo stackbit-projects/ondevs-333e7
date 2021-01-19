@@ -102,7 +102,7 @@ sections:
           and hire three new employees.
       - type: review_item
         template: review_item
-        author: Jane Roe
+        author: Dental Practitioner
         avatar: images/review2.jpg
         content: >-
           We ran a promotion before the winter holidays, offering a free teeth
