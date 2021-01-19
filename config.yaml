@@ -42,7 +42,7 @@ params:
         has_icon: true
         icon: envelope
       - label: About
-        url: lorem-ipsum
+        url: 'https://www.ondevs.com/about/'
         style: link
         has_icon: false
         icon: arrow-left
