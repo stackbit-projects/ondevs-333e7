@@ -40,7 +40,7 @@ params:
         has_icon: true
       - type: action
         template: action
-        label: Support
+        label: L Chat
         url: /Support\
         style: link
       - type: action
