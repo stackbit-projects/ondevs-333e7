@@ -28,7 +28,7 @@ sections:
       - type: action
         template: action
         label: Try Free
-        url: /signup
+        url: lchat.co.uk
         style: primary
       - type: action
         template: action
