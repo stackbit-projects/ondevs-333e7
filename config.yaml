@@ -41,7 +41,7 @@ params:
         style: primary
         has_icon: true
         icon: envelope
-      - label: lorem-ipsum
+      - label: About
         url: lorem-ipsum
         style: link
         has_icon: false
