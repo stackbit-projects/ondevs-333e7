@@ -36,7 +36,7 @@ sections:
         url: 'https://docs.lchat.ondevs.com/'
         style: secondary
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Services
     subtitle: lorem-ipsum
     background: gray
     type: section_posts
