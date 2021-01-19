@@ -41,7 +41,7 @@ params:
       - type: action
         template: action
         label: L Chat
-        url: /Support\
+        url: 'https://docs.lchat.ondevs.com/'
         style: link
       - type: action
         template: action
