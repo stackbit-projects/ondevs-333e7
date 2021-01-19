@@ -66,12 +66,6 @@ sections:
     reviews: []
     type: section_reviews
     template: section_reviews
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    type: section_cta
-    template: section_cta
 layout: landing
 meta_title: 'services marketing advertising '
 canonical_url: ''
