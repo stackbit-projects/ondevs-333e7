@@ -32,7 +32,7 @@ sections:
         style: primary
       - type: action
         template: action
-        label: View More
+        label: View Help
         url: 'https://docs.lchat.ondevs.com/'
         style: secondary
   - section_id: lorem-ipsum
