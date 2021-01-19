@@ -27,7 +27,7 @@ sections:
     actions:
       - type: action
         template: action
-        label: Free Trial
+        label: Try Free
         url: /signup
         style: primary
       - type: action
