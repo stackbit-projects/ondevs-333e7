@@ -35,17 +35,6 @@ sections:
         label: View Help
         url: 'https://docs.lchat.ondevs.com/'
         style: secondary
-  - type: section_cta
-    template: section_cta
-    section_id: call-to-action
-    title: Want to begin your journey
-    subtitle: 'Request a callback, see our FAQ''s, or get in touch'
-    actions:
-      - type: action
-        template: action
-        label: Get Started
-        url: '#'
-        style: secondary
   - section_id: lorem-ipsum
     title: Services
     subtitle: Click a segment below to see pricing and info
@@ -103,6 +92,18 @@ sections:
         actions: []
         type: pricing_plan
     type: section_pricing
+  - type: section_cta
+    template: section_cta
+    section_id: call-to-action
+    title: Want to begin your journey
+    subtitle: 'Request a callback, see our FAQ''s, or get in touch'
+    actions:
+      - type: action
+        template: action
+        label: Get Started
+        url: '#'
+        style: secondary
+  - null
 layout: landing
 meta_title: 'services marketing advertising '
 canonical_url: ''
