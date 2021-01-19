@@ -44,7 +44,7 @@ sections:
   - type: section_cta
     template: section_cta
     section_id: call-to-action
-    title: This Is Call to Action Block!
+    title: Want to begin your journey
     subtitle: This is an optional description for the call to action block.
     actions:
       - type: action
