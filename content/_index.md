@@ -89,7 +89,7 @@ sections:
     reviews:
       - type: review_item
         template: review_item
-        author: John Doe
+        author: HEPA Duct Servicing
         avatar: images/review1.jpg
         content: >-
           A sole trader, based in a metropolitan American city. A population
