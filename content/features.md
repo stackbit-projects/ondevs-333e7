@@ -54,7 +54,7 @@ sections:
         style: secondary
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Click a segment below to see pricing and info
     background: gray
     pricing_plans:
       - title: lorem-ipsum
