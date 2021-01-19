@@ -10,7 +10,6 @@ excerpt: >-
   aliquet rhoncus sed, hendrerit vel odio.
 image: images/10.jpg
 image_alt: Business people in a meeting
-thumb_image: images/10_thumb.jpg
 thumb_image_alt: Business people in a meeting
 layout: post
 ---
