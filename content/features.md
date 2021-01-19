@@ -37,7 +37,7 @@ sections:
         style: secondary
   - section_id: lorem-ipsum
     title: Services
-    subtitle: lorem-ipsum
+    subtitle: Click a segment below to see pricing and info
     background: gray
     type: section_posts
     template: section_posts
