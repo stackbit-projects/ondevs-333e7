@@ -43,17 +43,17 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         price: Creation
-        details: >-
-          ## Lorem ipsum
+        details: >
+          ## Creation
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
         highlight: false
         actions: []
         type: pricing_plan
