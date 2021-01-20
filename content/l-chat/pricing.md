@@ -130,28 +130,32 @@ sections:
           Host up to 1000 Participants
 
 
-          100GB Cloud Storage
-
-          Recording Transcripts
-
-          Dedicated Customer Success Manager
-
-          Live stream too 50million+ via Youtube, Facebook, and more socials
-
-          All features of X
+          *   100GB Cloud Storage
 
 
-          Chat/IM
+          *   Recording Transcripts
 
 
-          Custom Avatar
+          *   Dedicated Customer Success Manager
 
 
-          Advanced feature options; Mute all, participant video off, email and
-          password authorisation (join session)
+          *   Live stream too 50million+ via Youtube, Facebook, and more socials
 
 
-          Custom Pages: Welcome, Exit, and on supporting materials; pdf's,
+          *   All features of Basic
+
+
+          *   Chat/IM
+
+
+          *   Custom Avatar
+
+
+          *   Advanced feature options; Mute all, participant video off, email
+          and password authorisation (join session)
+
+
+          *   Custom Pages: Welcome, Exit, and on supporting materials; pdf's,
           images, graphs.
 
 
