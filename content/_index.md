@@ -6,7 +6,7 @@ sections:
   - type: section_hero
     template: section_hero
     section_id: hero
-    title: Your “GO TO” for Gold Star Business Services
+    title: Your “GO TO” Business Services
     content: >
       We help you reach the upper limits.
 
