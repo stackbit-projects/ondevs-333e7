@@ -138,6 +138,9 @@ sections:
 
           Custom Pages: Welcome, Exit, and on supporting materials; pdf's,
           images, graphs.
+
+
+          Minimum*** 15 licenses***
         actions:
           - type: action
             template: action
