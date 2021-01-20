@@ -109,7 +109,7 @@ sections:
         subtitle: For very large businesses
         price: $149/m
         details: >
-          ## Year License
+          ## Annual License
 
 
           Host up to 1000 Participants
@@ -133,7 +133,7 @@ sections:
 
 
           Advanced feature options; Mute all, participant video off, email and
-          password authorisation(join session)
+          password authorisation (join session)
 
 
           Custom Pages: Welcome, Exit, and on supporting materials; pdf's,
