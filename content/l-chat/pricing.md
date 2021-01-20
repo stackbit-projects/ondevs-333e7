@@ -20,7 +20,7 @@ sections:
         details: |
           ## No Account Needed
 
-          *   Host up to 75 participants
+          *   Host up to 75 active participants
 
           *   No 40 minute limit
 
