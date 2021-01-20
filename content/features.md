@@ -76,7 +76,7 @@ sections:
         type: pricing_plan
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        price: Development
+        price: ''
         details: >-
           ## Lorem ipsum
 
