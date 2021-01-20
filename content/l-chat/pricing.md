@@ -90,7 +90,7 @@ sections:
         actions:
           - type: action
             template: action
-            label: Order Now
+            label: Purchase
             url: enquire/lchat
             style: secondary
       - title: Live Streamer
