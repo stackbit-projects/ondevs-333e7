@@ -11,7 +11,7 @@ sections:
     title: Static Websites
     subtitle: >-
       Fully customisable, or available as is with your own branding. Starting
-      from £80
+      from £100/yr
     background: gray
     pricing_plans:
       - title: A1
