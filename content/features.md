@@ -92,7 +92,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: ''
         price: ''
         details: |
           ## Management
