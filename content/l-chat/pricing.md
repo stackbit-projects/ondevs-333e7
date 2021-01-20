@@ -50,7 +50,7 @@ sections:
         template: pricing_plan
         title: Professional
         subtitle: For medium-sized businesses
-        price: £110/year/license
+        price: £110/
         details: |
           ## Year License
 
