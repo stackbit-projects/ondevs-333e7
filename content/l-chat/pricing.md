@@ -17,17 +17,7 @@ sections:
       - title: A1
         subtitle: Personal Meeting
         price: Free
-        details: >
-          ## A simple website for 
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+        details: "## No Account Needed\n\n*   Host up to 100 participants\r\n\n\n*   No 40 minute limit\n\n<!---->\n\n*   Unlimited Meetings\n"
         highlight: false
         actions:
           - label: lorem-ipsum
