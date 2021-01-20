@@ -54,8 +54,8 @@ sections:
         is_required: true
       - input_type: number
         name: Number
-        label: Number for callback
-        default_value: lorem-ipsum
+        label: 'Number '
+        default_value: Number for callback
         options: []
         is_required: false
         type: form_field
