@@ -53,6 +53,10 @@ sections:
 
           *   No minimum license purchase
 
+          *   Unlimited meeting rooms, maximium 75 interactive participants
+
+
+
           ***Max 10 license per account***
         highlight: true
         actions:
