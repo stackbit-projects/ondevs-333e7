@@ -94,22 +94,16 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         price: lorem-ipsum
-        details: >
-          ## Lorem ipsum
+        details: |
+          ## Management
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
           1.  Training
 
-
           2.  Staff management software
 
-
           3.  Social Media
-
 
           4.  Affiliate marketing
         highlight: false
