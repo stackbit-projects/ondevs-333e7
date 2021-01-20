@@ -105,16 +105,5 @@ sections:
         actions: []
         type: pricing_plan
     type: section_pricing
-  - type: section_cta
-    template: section_cta
-    section_id: call-to-action
-    title: Want to begin your journey
-    subtitle: 'Request a callback, see our FAQ''s, or get in touch'
-    actions:
-      - type: action
-        template: action
-        label: Get Started
-        url: '#'
-        style: secondary
 layout: landing
 ---
