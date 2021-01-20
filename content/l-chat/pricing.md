@@ -163,7 +163,7 @@ sections:
     faq_items:
       - type: faq_item
         template: faq_item
-        question: How
+        question: How is this possible
         answer: >-
           Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
           tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
