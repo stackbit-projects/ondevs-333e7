@@ -118,7 +118,7 @@ sections:
         highlight: false
         actions:
           - label: Purchase
-            url: lorem-ipsum
+            url: enquire/lchat
             style: link
             has_icon: false
             icon: arrow-left
