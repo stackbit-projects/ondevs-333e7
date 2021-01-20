@@ -76,7 +76,7 @@ sections:
             url: /signup
             style: secondary
       - title: Live Streamer
-        subtitle: lorem-ipsum
+        subtitle: Influencers and rising stars
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
