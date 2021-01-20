@@ -15,7 +15,7 @@ sections:
     background: gray
     pricing_plans:
       - title: A1
-        subtitle: lorem-ipsum
+        subtitle: Available with E-commerce
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
