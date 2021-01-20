@@ -96,10 +96,7 @@ sections:
         subtitle: Influencers and rising stars
         price: lorem-ipsum
         details: >
-          ##
-
-
-          Year License
+          ## Year License
 
 
           *   All the basic features
