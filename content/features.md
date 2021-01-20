@@ -59,17 +59,12 @@ sections:
       - title: ''
         subtitle: lorem-ipsum
         price: ''
-        details: >
-          # Lorem ipsum
+        details: |
+          # Design
 
+          1.  Web design
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+          2.  Graphics
         highlight: false
         actions: []
         type: pricing_plan
