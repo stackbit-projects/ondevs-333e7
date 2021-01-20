@@ -99,7 +99,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          *   Have your own dedcated webpage with your domain name
+          *   All the basic features 
 
           *   Virtually unlimited viewers via Yputube, facebook, and otehr
           social streaming integrations.
