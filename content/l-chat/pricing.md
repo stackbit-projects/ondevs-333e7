@@ -9,9 +9,7 @@ sections:
     template: section_pricing
     section_id: pricing
     title: Static Websites
-    subtitle: >-
-      Fully customisable, or available as is with your own branding. Starting
-      from £100/yr
+    subtitle: 'Free for all, and available as ia custom service starting from £100/yr'
     background: gray
     pricing_plans:
       - title: A1
