@@ -71,7 +71,7 @@ params:
             style: link
           - type: action
             template: action
-            label: Blog
+            label: ''
             url: /blog
             style: link
           - type: action
