@@ -75,7 +75,7 @@ sections:
           - type: action
             template: action
             label: Learn More
-            url: /features
+            url: services
             style: secondary
             has_icon: true
             icon: arrow-right
