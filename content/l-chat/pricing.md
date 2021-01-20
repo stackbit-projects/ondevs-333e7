@@ -75,7 +75,7 @@ sections:
 
           *   Group meetings on your own domain, and server\*
 
-          Minimum*** 5 Licenses***
+          ***Minimum 5 Licenses***
 
           <!---->
         actions:
