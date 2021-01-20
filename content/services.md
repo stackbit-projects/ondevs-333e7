@@ -39,7 +39,7 @@ sections:
         label: View More
         url: 'https://docs.lchat.ondevs.com/'
         style: secondary
-      - label: pricing
+      - label: Pricing
         url: lchat/pricing
         style: link
         has_icon: false
