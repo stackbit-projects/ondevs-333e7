@@ -73,11 +73,11 @@ sections:
 
           *   Company Branding
 
-          *
+          <!---->
 
           *   Group meetings on your own domain, and server\*
 
-          ***Minimium of £5 license's***
+          Minimum*** of £5 license's***
 
           <!---->
         actions:
