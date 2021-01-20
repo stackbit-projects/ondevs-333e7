@@ -91,7 +91,7 @@ sections:
       - title: Live Streamer
         subtitle: Influencers and rising stars
         price: lorem-ipsum
-        details: >-
+        details: >
           ## Lorem ipsum
 
 
@@ -99,9 +99,10 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Have your own dedcated webpage with your domain name
 
-          - dolor sit amet
+          *   Virtually unlimited viewers via Yputube, facebook, and otehr
+          social streaming integrations.
         highlight: false
         actions: []
         type: pricing_plan
