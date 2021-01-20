@@ -36,7 +36,7 @@ sections:
         style: primary
       - type: action
         template: action
-        label: 'Spec '
+        label: Spec & Docs
         url: 'https://docs.lchat.ondevs.com/'
         style: secondary
       - label: Pricing
