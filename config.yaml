@@ -99,7 +99,7 @@ params:
           - type: action
             template: action
             label: Linkedin
-            url: 'https://www.linkedin.com/company/18688025/admin/'
+            url: 'https://www.linkedin.com/company/18688025'
             style: link
             has_icon: true
             icon: linkedin
