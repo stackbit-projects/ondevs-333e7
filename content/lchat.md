@@ -39,5 +39,14 @@ sections:
         label: View More
         url: 'https://docs.lchat.ondevs.com/'
         style: secondary
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
+        type: action
 layout: landing
 ---
