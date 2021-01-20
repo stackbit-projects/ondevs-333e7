@@ -12,7 +12,7 @@ sections:
     subtitle: 'Free for all, and available as a custom service starting from £100/yr'
     background: gray
     pricing_plans:
-      - title: A1
+      - title: 'The Free, secure, orginal'
         subtitle: Personal Meeting
         price: Free
         details: |
