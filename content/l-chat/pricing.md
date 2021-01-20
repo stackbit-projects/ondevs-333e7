@@ -51,12 +51,9 @@ sections:
         title: Professional
         subtitle: For medium-sized businesses
         price: $49/m
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula pellentesque dolor
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae luctus
-          * Nullam sollicitudin ante
+        details: >
+          *   *   Group meetings on your own domain, and server*   Social Media
+          Streaming*   1 GB Cloud Recording (per license)
         highlight: true
         actions:
           - type: action
