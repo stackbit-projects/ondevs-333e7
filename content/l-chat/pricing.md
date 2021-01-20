@@ -173,7 +173,7 @@ sections:
           - type: action
             template: action
             label: Order Now
-            url: /signup
+            url: enquire/lchat
             style: secondary
   - type: section_faq
     template: section_faq
