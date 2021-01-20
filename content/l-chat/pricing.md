@@ -47,7 +47,9 @@ sections:
 
           *   *   OnDevs managed domain "YOURDOMAIN.lchat.co.uk
 
-          *   Social Media Streaming\*   1 GB Cloud Recording (per license)
+          *   Social Media Streaming to Youtube
+
+          *   1 GB Cloud Recording
 
           *   No minimum license purchase
 
