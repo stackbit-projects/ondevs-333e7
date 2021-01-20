@@ -123,7 +123,7 @@ sections:
       - type: action
         template: action
         label: Get Started
-        url: '#'
+        url: contact
         style: secondary
 layout: landing
 ---
