@@ -172,7 +172,7 @@ sections:
           netus et malesuada fames ac turpis egestas.
       - type: faq_item
         template: faq_item
-        question: Aliquam eget purus ante?
+        question: Why is it free?
         answer: >-
           Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
           eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
