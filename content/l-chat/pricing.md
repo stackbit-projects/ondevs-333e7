@@ -56,7 +56,7 @@ sections:
           - type: action
             template: action
             label: Order Now
-            url: /signup
+            url: enquire/lchat
             style: primary
       - type: pricing_plan
         template: pricing_plan
