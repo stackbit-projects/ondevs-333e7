@@ -105,12 +105,19 @@ sections:
           ## Year License
 
 
+          *   Your Branding
+
+          *   Have YOURDOMAN.com
+
           *   All the basic features
 
           *   Virtually unlimited viewers via YouTube, Facebook, and other
           social streaming integrations.
 
           *   Dedicated Server
+
+
+          ## Year License\<!---->\<!---->&#xA;&#xA;***Max 5 Accounts***
         highlight: false
         actions: []
         type: pricing_plan
