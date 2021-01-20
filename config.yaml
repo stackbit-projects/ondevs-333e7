@@ -98,7 +98,7 @@ params:
             icon_position: left
           - type: action
             template: action
-            label: ''
+            label: Linkedin
             url: 'https://www.linkedin.com/'
             style: link
             has_icon: true
