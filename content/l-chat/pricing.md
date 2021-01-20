@@ -75,7 +75,7 @@ sections:
 
           *   Company Branding
 
-          *   OnDevs managed domain "YOURDOMAIN.lchat.co.uk
+          *
 
           *   Group meetings on your own domain, and server\*
 
