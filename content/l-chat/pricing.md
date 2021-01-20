@@ -13,7 +13,7 @@ sections:
     background: gray
     pricing_plans:
       - title: Personal
-        subtitle: Personal Meeting
+        subtitle: 'Free, secure, original'
         price: Free
         details: |
           ## No Account Needed
