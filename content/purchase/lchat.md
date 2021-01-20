@@ -28,7 +28,7 @@ sections:
         is_required: true
       - input_type: number
         name: Number
-        label: 'Number '
+        label: Number
         default_value: Number for callback
         options: []
         is_required: false
