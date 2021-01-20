@@ -32,6 +32,28 @@ sections:
         type: pricing_plan
       - type: pricing_plan
         template: pricing_plan
+        title: Sole Trader
+        subtitle: Perfect for individuals
+        price: £100
+        details: |
+          ## Year License
+
+          *   Group meetings on your own domain, and server\*
+
+          *   Social Media Streaming\*   1 GB Cloud Recording (per license)
+
+          *   No minimum license purchase
+
+          ***Max 10 license per account***
+        highlight: true
+        actions:
+          - type: action
+            template: action
+            label: Order Now
+            url: /signup
+            style: primary
+      - type: pricing_plan
+        template: pricing_plan
         title: Basic
         subtitle: For small businesses
         price: £120
@@ -53,28 +75,6 @@ sections:
             label: Order Now
             url: /signup
             style: secondary
-      - type: pricing_plan
-        template: pricing_plan
-        title: Sole Trader
-        subtitle: Perfect for individuals
-        price: £100
-        details: |
-          ## Year License
-
-          *   Group meetings on your own domain, and server\*
-
-          *   Social Media Streaming\*   1 GB Cloud Recording (per license)
-
-          *   No minimum license purchase
-
-          ***Max 10 license per account***
-        highlight: true
-        actions:
-          - type: action
-            template: action
-            label: Order Now
-            url: /signup
-            style: primary
       - type: pricing_plan
         template: pricing_plan
         title: Enterprise
