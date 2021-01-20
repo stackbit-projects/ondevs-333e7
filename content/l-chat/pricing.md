@@ -55,7 +55,7 @@ sections:
             style: secondary
       - type: pricing_plan
         template: pricing_plan
-        title: Professional
+        title: Solo
         subtitle: For medium-sized businesses
         price: £100
         details: |
