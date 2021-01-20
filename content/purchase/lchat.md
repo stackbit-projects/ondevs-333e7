@@ -33,7 +33,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Indvidual
+          - Individual
           - Sponsorship
           - Other
       - type: form_field
