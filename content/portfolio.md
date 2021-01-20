@@ -17,17 +17,17 @@ sections:
       - title: A1
         subtitle: Available with E-commerce
         price: Perfect
-        details: >-
-          ## Lorem ipsum
+        details: >
+          ## A simple website for 
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
         highlight: false
         actions:
           - label: lorem-ipsum
