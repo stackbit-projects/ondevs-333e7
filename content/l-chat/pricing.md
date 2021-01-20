@@ -116,7 +116,16 @@ sections:
 
           ***Max 5 Accounts  - enables login for staff to view analytics***
         highlight: false
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
         type: pricing_plan
       - type: pricing_plan
         template: pricing_plan
