@@ -109,14 +109,12 @@ sections:
 
           *   Have YOURDOMAN.com
 
-          *   All the basic features
+          *   Optional Landing Page with Stream embed
 
           *   Virtually unlimited viewers via YouTube, Facebook, and other
           social streaming integrations.
 
           *   Dedicated Server
-
-
 
 
           ***Max 5 Accounts***
