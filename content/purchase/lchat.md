@@ -53,7 +53,7 @@ sections:
           can be contacted.
         is_required: true
       - input_type: number
-        name: lorem-ipsum
+        name: Number
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
