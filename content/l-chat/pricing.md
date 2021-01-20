@@ -117,7 +117,7 @@ sections:
           ***Max 5 Accounts  - enables login for staff to view analytics***
         highlight: false
         actions:
-          - label: lorem-ipsum
+          - label: Purchase
             url: lorem-ipsum
             style: link
             has_icon: false
