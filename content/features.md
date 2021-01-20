@@ -58,7 +58,7 @@ sections:
         type: pricing_plan
       - title: ''
         subtitle: lorem-ipsum
-        price: Design
+        price: ''
         details: >-
           ## Lorem ipsum
 
