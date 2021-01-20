@@ -140,7 +140,7 @@ sections:
           images, graphs.
 
 
-          Minimum*** 15 licenses***
+          ***Minimum 15 licenses***
         actions:
           - type: action
             template: action
