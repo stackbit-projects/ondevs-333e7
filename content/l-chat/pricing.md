@@ -75,7 +75,7 @@ sections:
 
           *   Group meetings on your own domain, and server\*
 
-          Minimum*** of £5 license's***
+          Minimum*** 5 Licenses***
 
           <!---->
         actions:
