@@ -77,17 +77,14 @@ sections:
       - title: ''
         subtitle: lorem-ipsum
         price: ''
-        details: >-
-          ## Lorem ipsum
+        details: |
+          Development
 
+          1.  Software
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          2.  Apps
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          3.  Web development
         highlight: false
         actions: []
         type: pricing_plan
