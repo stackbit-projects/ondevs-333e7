@@ -65,9 +65,9 @@ sections:
 
           3.  Media
 
-          4.  Email marketing 
+          4.  Email marketing
 
-          5.  Website Creation
+          5.  Website Creation 
         highlight: false
         actions: []
         type: pricing_plan
