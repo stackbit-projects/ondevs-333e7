@@ -76,7 +76,7 @@ params:
             style: link
           - type: action
             template: action
-            label: Sign Up
+            label: ''
             url: /signup
             style: link
           - type: action
