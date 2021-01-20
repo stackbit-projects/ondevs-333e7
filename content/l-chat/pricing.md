@@ -94,7 +94,7 @@ sections:
             style: secondary
       - title: Live Streamer
         subtitle: Influencers and rising stars
-        price: lorem-ipsum
+        price: £1200
         details: >
           ## Year License
 
