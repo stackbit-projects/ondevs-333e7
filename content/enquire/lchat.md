@@ -1,8 +1,8 @@
 ---
 title: Submit a Purchase request
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+  We will reach out to you for more information, images, and any requests.
+  Average of 72 hour turnaround from receipt of information.
 image_alt: Office desk top view
 meta_title: lorem-ipsum
 meta_description: lorem-ipsum
