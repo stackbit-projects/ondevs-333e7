@@ -26,6 +26,13 @@ sections:
         name: email
         label: Email
         is_required: true
+      - input_type: number
+        name: Number
+        label: 'Number '
+        default_value: Number for callback
+        options: []
+        is_required: false
+        type: form_field
       - type: form_field
         template: form_field
         input_type: select
@@ -52,13 +59,6 @@ sections:
           I understand that this form is storing my submitted information so I
           can be contacted.
         is_required: true
-      - input_type: number
-        name: Number
-        label: 'Number '
-        default_value: Number for callback
-        options: []
-        is_required: false
-        type: form_field
     submit_label: Send Message
 layout: landing
 ---
