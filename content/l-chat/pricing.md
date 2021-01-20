@@ -158,7 +158,7 @@ sections:
     template: section_faq
     section_id: faq
     title: Frequently Asked Questions
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
+    subtitle: 'If you don''t see your answer, contact us.'
     background: gray
     faq_items:
       - type: faq_item
