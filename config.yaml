@@ -106,7 +106,7 @@ params:
             icon_position: left
           - type: action
             template: action
-            label: ''
+            label: Facebook
             url: 'https://github.com/'
             style: link
             has_icon: true
