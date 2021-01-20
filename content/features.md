@@ -52,7 +52,7 @@ sections:
 
           3.  Media
 
-          4.
+          4.  Email marketing 
 
           5.  Website Creation
         highlight: false
