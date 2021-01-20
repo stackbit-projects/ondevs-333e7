@@ -40,7 +40,7 @@ sections:
         url: 'https://docs.lchat.ondevs.com/'
         style: secondary
       - label: pricing
-        url: lorem-ipsum
+        url: lchat/pricing
         style: link
         has_icon: false
         icon: arrow-left
