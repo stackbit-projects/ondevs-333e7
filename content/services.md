@@ -54,7 +54,7 @@ sections:
     background: gray
     pricing_plans:
       - title: v
-        subtitle: lorem-ipsum
+        subtitle: ''
         price: ''
         details: |
           # Creation
