@@ -84,7 +84,7 @@ sections:
         actions: []
         type: pricing_plan
       - title: ' '
-        subtitle: lorem-ipsum
+        subtitle: ''
         price: ''
         details: |
           # Development
