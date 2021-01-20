@@ -88,7 +88,7 @@ sections:
           *   Have YOURDOMAN.com rather than '.lchat.co.uk
 
 
-          ***Max 5 Licenses***
+          ***Max 5 Accounts***
 
 
           <!---->
