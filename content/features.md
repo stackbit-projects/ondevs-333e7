@@ -74,7 +74,7 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
-      - title: lorem-ipsum
+      - title: ''
         subtitle: lorem-ipsum
         price: ''
         details: >-
