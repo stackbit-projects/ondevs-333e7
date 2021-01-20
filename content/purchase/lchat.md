@@ -34,7 +34,7 @@ sections:
         default_value: Please select
         options:
           - Personal
-          - BasicSAA
+          - Sole Trader
           - Other
       - type: form_field
         template: form_field
