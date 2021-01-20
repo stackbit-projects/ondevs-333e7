@@ -54,7 +54,7 @@ sections:
         is_required: true
       - input_type: number
         name: Number
-        label: Nu
+        label: Number for callback
         default_value: lorem-ipsum
         options: []
         is_required: false
