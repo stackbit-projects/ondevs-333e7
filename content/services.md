@@ -53,7 +53,7 @@ sections:
     subtitle: Click a segment below to see pricing and info.
     background: gray
     pricing_plans:
-      - title: v
+      - title: ''
         subtitle: ''
         price: ''
         details: |
