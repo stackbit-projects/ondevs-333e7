@@ -34,7 +34,7 @@ sections:
         template: pricing_plan
         title: Basic
         subtitle: For small businesses
-        price: '120'
+        price: £120
         details: |+
           ## Year License
 
