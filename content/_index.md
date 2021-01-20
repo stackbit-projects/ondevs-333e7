@@ -18,7 +18,7 @@ sections:
       - type: action
         template: action
         label: Visit Services
-        url: services
+        url: ''
         style: primary
   - type: section_features
     template: section_features
