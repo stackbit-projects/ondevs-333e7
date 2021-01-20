@@ -70,7 +70,7 @@ sections:
           ## Year License
 
 
-          *   Company Branding#
+          *   Company Branding
 
           *   Licenses provide; allowing login, view stats, contact support,
           make requests
