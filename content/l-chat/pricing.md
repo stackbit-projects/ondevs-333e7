@@ -17,7 +17,16 @@ sections:
       - title: A1
         subtitle: Personal Meeting
         price: Free
-        details: "## No Account Needed\n\n*   Host up to 100 participants\r\n\n\n*   No 40 minute limit\n\n<!---->\n\n*   Unlimited Meetings\n"
+        details: |
+          ## No Account Needed
+
+          *   Host up to 75 participants
+
+          *   No 40 minute limit
+
+          <!---->
+
+          *   Unlimited Meetings
         highlight: false
         actions:
           - label: lorem-ipsum
