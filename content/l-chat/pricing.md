@@ -81,11 +81,11 @@ sections:
           <!---->
 
 
-          *   Group meetings on your own domain
+          *   Unlimited rooms
+
+          *   Password access control
 
           *   Have YOURDOMAN.com rather than '.lchat.co.uk
-
-
 
 
           ***Max 5 Licenses***
