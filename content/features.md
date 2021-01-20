@@ -59,17 +59,17 @@ sections:
       - title: ''
         subtitle: lorem-ipsum
         price: ''
-        details: >-
-          ## Lorem ipsum
+        details: >
+          # Lorem ipsum
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
         highlight: false
         actions: []
         type: pricing_plan
