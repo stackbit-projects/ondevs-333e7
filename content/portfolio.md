@@ -9,7 +9,9 @@ sections:
     template: section_pricing
     section_id: pricing
     title: Static Websites
-    subtitle: You can have a separate pricing page or list everything on the home page.
+    subtitle: >-
+      Fully customisable, or available as is with your own branding. Starting
+      from £80
     background: gray
     pricing_plans:
       - title: lorem-ipsum
