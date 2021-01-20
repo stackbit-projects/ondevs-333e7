@@ -14,7 +14,7 @@ sections:
       from £80
     background: gray
     pricing_plans:
-      - title: lorem-ipsum
+      - title: A1
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
