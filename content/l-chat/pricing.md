@@ -78,11 +78,24 @@ sections:
         title: Enterprise
         subtitle: For very large businesses
         price: $149/m
-        details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus laoreet quam
+        details: >+
+          Host up to 1000 Participants
+
+
+          Unlimited Cloud Storage
+
+          Recording Transcripts
+
+          Dedicated Customer Success Manager
+
+          Live stream too 50million+ via Youtube, Facebook, and more socials
+
+          All features of X
+
+
+          Custom Pages: Welcome, Exit, and on supporting materials; pdf's,
+          images, graphs. 
+
         actions:
           - type: action
             template: action
