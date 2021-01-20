@@ -50,7 +50,7 @@ sections:
         type: action
   - section_id: lorem-ipsum
     title: Services
-    subtitle: Click a segment below to see pricing and info
+    subtitle: Click a segment below to see pricing and info.
     background: gray
     pricing_plans:
       - title: ''
