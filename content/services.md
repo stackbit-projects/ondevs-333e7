@@ -109,7 +109,7 @@ sections:
 
           3.  Social Media
 
-          4.  Affiliate marketing
+          4.  Affiliate marketing 
         highlight: false
         actions: []
         type: pricing_plan
