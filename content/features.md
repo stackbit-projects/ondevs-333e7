@@ -44,7 +44,7 @@ sections:
         subtitle: lorem-ipsum
         price: ''
         details: |
-          Creation
+          # Creation
 
           1.  Content
 
