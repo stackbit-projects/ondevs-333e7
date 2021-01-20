@@ -29,7 +29,7 @@ sections:
       - input_type: number
         name: Number
         label: Number
-        default_value: 'Number for callback, we are happy to '
+        default_value: 'Number for callback, we are happy to call any c'
         options: []
         is_required: false
         type: form_field
