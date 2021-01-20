@@ -8,7 +8,7 @@ sections:
   - type: section_contact
     template: section_contact
     section_id: contact
-    title: Contact
+    title: L Chat Purchase Enquiry
     content: |
       Submit a purchase enquiry for LChat Services
     background: gray
