@@ -48,7 +48,7 @@ sections:
           *   OnDevs managed domain "YOURDOMAIN.lchat.co.uk
           *   1 GB Cloud Recording
           *   No minimum license purchase
-          *   Unlimited meeting rooms, maximium 75 interactive participants
+          *   1 meeting room, maximum 75 interactive participants
 
           ***1 User***
         highlight: true
