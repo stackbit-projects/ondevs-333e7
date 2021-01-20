@@ -42,7 +42,7 @@ sections:
     pricing_plans:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
-        price: Creation
+        price: ''
         details: >
           ## Creation
 
