@@ -56,7 +56,7 @@ sections:
       - type: pricing_plan
         template: pricing_plan
         title: Sole Trader
-        subtitle: For medium-sized businesses
+        subtitle: Perfect for individuals
         price: £100
         details: |
           ## Year License
