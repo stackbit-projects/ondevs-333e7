@@ -34,7 +34,7 @@ sections:
         default_value: Please select
         options:
           - Individual
-          - Sponsorship
+          - Basic
           - Other
       - type: form_field
         template: form_field
