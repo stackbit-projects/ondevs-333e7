@@ -32,7 +32,7 @@ sections:
       - type: action
         template: action
         label: Try Free
-        url: lchat.co.uk
+        url: www.lchat.co.uk
         style: primary
       - type: action
         template: action
