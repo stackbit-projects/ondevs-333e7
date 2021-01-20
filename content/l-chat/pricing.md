@@ -8,7 +8,7 @@ sections:
   - type: section_pricing
     template: section_pricing
     section_id: pricing
-    title: Static Websites
+    title: Video Calling
     subtitle: 'Free for all, and available as a custom service starting from £100/yr'
     background: gray
     pricing_plans:
