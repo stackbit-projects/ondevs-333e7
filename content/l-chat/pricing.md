@@ -35,11 +35,20 @@ sections:
         title: Basic
         subtitle: For small businesses
         price: $5/m
-        details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
+        details: |+
+          ## Year License
+
+          *   Company Branding
+
+
+          *   OnDevs managed domain "YOURDOMAIN.lchat.co.uk
+
+          *   Group meetings on your own domain, and server\*
+
+
+
+          <!---->
+
         actions:
           - type: action
             template: action
