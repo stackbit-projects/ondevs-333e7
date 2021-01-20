@@ -77,7 +77,7 @@ sections:
         subtitle: lorem-ipsum
         price: ''
         details: |
-          Development
+          # Development
 
           1.  Software
 
