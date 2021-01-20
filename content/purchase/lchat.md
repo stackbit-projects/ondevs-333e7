@@ -9,10 +9,8 @@ sections:
     template: section_contact
     section_id: contact
     title: Contact
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    content: |
+      Submit a purchase enquiry for LChat Services
     background: gray
     form_id: contactForm
     form_fields:
