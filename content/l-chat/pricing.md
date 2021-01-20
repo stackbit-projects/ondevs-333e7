@@ -66,16 +66,24 @@ sections:
         title: Basic
         subtitle: For small businesses
         price: £120
-        details: |
+        details: >
           ## Year License
 
-          *   Company Branding
+
+          *   Company Branding#
+
+          *   Licenses, allowing login, view stats, contact support, make
+          requests
+
 
           <!---->
 
+
           *   Group meetings on your own domain, and server\*
 
+
           ***Minimum 5 Licenses***
+
 
           <!---->
         actions:
