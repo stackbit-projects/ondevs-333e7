@@ -83,7 +83,7 @@ sections:
           *   Have YOURDOMAN.com rather than '.lchat.co.uk
 
 
-          ***Max 5 Accounts***
+          ***Max 5 Accounts - enables login for staff to view analytics***
 
 
           <!---->
