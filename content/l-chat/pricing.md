@@ -99,10 +99,12 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          *   All the basic features 
+          *   All the basic features
 
-          *   Virtually unlimited viewers via Yputube, facebook, and otehr
+          *   Virtually unlimited viewers via YouTube, Facebook, and other
           social streaming integrations.
+
+          *   Option to have YOURDOMAN.com rather than '.lchat.co.uk
         highlight: false
         actions: []
         type: pricing_plan
