@@ -158,7 +158,7 @@ sections:
     template: section_faq
     section_id: faq
     title: Frequently Asked Questions
-    subtitle: 'If you don''t see your answer, contact us.'
+    subtitle: L Chat has no strings or catches
     background: gray
     faq_items:
       - type: faq_item
