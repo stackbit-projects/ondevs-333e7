@@ -60,7 +60,7 @@ sections:
           - type: action
             template: action
             label: Learn More
-            url: /features
+            url: about
             style: secondary
             has_icon: true
             icon: arrow-right
