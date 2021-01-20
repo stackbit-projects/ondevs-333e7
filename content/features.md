@@ -97,8 +97,6 @@ sections:
         details: |
           ## Management
 
-
-
           1.  Training
 
           2.  Staff management software
