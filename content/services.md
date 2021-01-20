@@ -40,7 +40,7 @@ sections:
         url: 'https://docs.lchat.ondevs.com/'
         style: secondary
       - label: Pricing
-        url: lchat/pricing
+        url: l-chat/pricing
         style: link
         has_icon: false
         icon: arrow-left
