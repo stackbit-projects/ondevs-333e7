@@ -47,15 +47,13 @@ sections:
         details: |
           ## Year License
 
-          *   Group meetings on your own domain, and server\*
+          *   *   OnDevs managed domain "YOURDOMAIN.lchat.co.uk
 
           *   Social Media Streaming\*   1 GB Cloud Recording (per license)
 
           *   No minimum license purchase
 
           *   Unlimited meeting rooms, maximium 75 interactive participants
-
-
 
           ***Max 10 license per account***
         highlight: true
