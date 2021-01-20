@@ -51,9 +51,12 @@ sections:
         title: Professional
         subtitle: For medium-sized businesses
         price: £110/year/license
-        details: >
-          *   *   Group meetings on your own domain, and server*   Social Media
-          Streaming*   1 GB Cloud Recording (per license)
+        details: |
+          ## Year License
+
+          *   Group meetings on your own domain, and server\*   
+
+          *   Social Media Streaming\*   1 GB Cloud Recording (per license)
         highlight: true
         actions:
           - type: action
