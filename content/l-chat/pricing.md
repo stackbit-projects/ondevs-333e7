@@ -117,7 +117,9 @@ sections:
           *   Dedicated Server
 
 
-          ## Year License\<!---->\<!---->&#xA;&#xA;***Max 5 Accounts***
+
+
+          ***Max 5 Accounts***
         highlight: false
         actions: []
         type: pricing_plan
