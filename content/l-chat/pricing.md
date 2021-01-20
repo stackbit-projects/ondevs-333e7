@@ -76,11 +76,11 @@ sections:
         title: Enterprise
         subtitle: For very large businesses
         price: $149/m
-        details: >+
+        details: >
           Host up to 1000 Participants
 
 
-          Unlimited Cloud Storage
+          100GB Cloud Storage
 
           Recording Transcripts
 
@@ -91,9 +91,18 @@ sections:
           All features of X
 
 
-          Custom Pages: Welcome, Exit, and on supporting materials; pdf's,
-          images, graphs. 
+          Chat/IM
 
+
+          Custom Avatar
+
+
+          Advanced feature options; Mute all, participant video off, email and
+          password authorisation(join session)
+
+
+          Custom Pages: Welcome, Exit, and on supporting materials; pdf's,
+          images, graphs.
         actions:
           - type: action
             template: action
