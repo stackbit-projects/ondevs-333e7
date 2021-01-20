@@ -15,7 +15,7 @@ sections:
     background: gray
     pricing_plans:
       - title: A1
-        subtitle: Available with E-commerce
+        subtitle: Personal Meeting
         price: Free
         details: >
           ## A simple website for 
