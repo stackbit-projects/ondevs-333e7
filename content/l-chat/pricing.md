@@ -45,15 +45,14 @@ sections:
         details: |
           ## Year License
 
-          *   *   OnDevs managed domain "YOURDOMAIN.lchat.co.uk
 
-          *   Social Media Streaming to Youtube
 
+          *   OnDevs managed domain "YOURDOMAIN.lchat.co.uk
           *   1 GB Cloud Recording
-
           *   No minimum license purchase
-
           *   Unlimited meeting rooms, maximium 75 interactive participants
+
+
 
           ***Max 1 User account***
         highlight: true
