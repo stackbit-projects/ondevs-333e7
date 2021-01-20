@@ -35,20 +35,18 @@ sections:
         title: Basic
         subtitle: For small businesses
         price: £120
-        details: |+
+        details: |
           ## Year License
 
           *   Company Branding
-
 
           *   OnDevs managed domain "YOURDOMAIN.lchat.co.uk
 
           *   Group meetings on your own domain, and server\*
 
-
+          *Minimium of £5 license's*
 
           <!---->
-
         actions:
           - type: action
             template: action
