@@ -61,9 +61,11 @@ sections:
         details: |
           ## Year License
 
-          *   Group meetings on your own domain, and server\*   
+          *   Group meetings on your own domain, and server\*
 
           *   Social Media Streaming\*   1 GB Cloud Recording (per license)
+
+          *   No minimum license purchase
         highlight: true
         actions:
           - type: action
