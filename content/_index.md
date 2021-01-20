@@ -134,7 +134,7 @@ sections:
       - type: action
         template: action
         label: Contact
-        url: /signup
+        url: contact
         style: primary
 layout: landing
 ---
