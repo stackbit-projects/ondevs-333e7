@@ -50,7 +50,7 @@ sections:
         template: pricing_plan
         title: Professional
         subtitle: For medium-sized businesses
-        price: $49/m
+        price: £110/year/license
         details: >
           *   *   Group meetings on your own domain, and server*   Social Media
           Streaming*   1 GB Cloud Recording (per license)
