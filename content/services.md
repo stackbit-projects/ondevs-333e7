@@ -39,7 +39,7 @@ sections:
         label: View More
         url: 'https://docs.lchat.ondevs.com/'
         style: secondary
-      - label: lorem-ipsum
+      - label: pricing
         url: lorem-ipsum
         style: link
         has_icon: false
