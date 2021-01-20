@@ -35,7 +35,8 @@ sections:
         options:
           - Personal
           - Sole Trader
-          - Other
+          - Basic
+          - lorem-ipsum
       - type: form_field
         template: form_field
         input_type: textarea
