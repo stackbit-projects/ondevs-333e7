@@ -94,7 +94,7 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         price: lorem-ipsum
-        details: >-
+        details: >
           ## Lorem ipsum
 
 
@@ -102,9 +102,16 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          1.  Training
 
-          - dolor sit amet
+
+          2.  Staff management software
+
+
+          3.  Social Media
+
+
+          4.  Affiliate marketing
         highlight: false
         actions: []
         type: pricing_plan
