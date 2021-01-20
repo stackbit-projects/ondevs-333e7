@@ -37,7 +37,7 @@ sections:
           - Sole Trader
           - Basic
           - Live Streamer
-          - lorem-ipsum
+          - Enterprise
           - lorem-ipsum
       - type: form_field
         template: form_field
