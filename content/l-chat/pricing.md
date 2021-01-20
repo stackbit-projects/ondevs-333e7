@@ -74,8 +74,8 @@ sections:
 
           *   Company Branding
 
-          *   Licenses provide; allowing login, view stats, contact support,
-          make requests
+          *   Licenses provides; manager account login, view stats, contact
+          support, make requests
 
 
           <!---->
