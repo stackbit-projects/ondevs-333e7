@@ -96,7 +96,7 @@ sections:
       - title: Live Streamer
         subtitle: Influencers and rising stars
         price: £1200
-        details: >
+        details: >+
           ## Year License
 
 
@@ -112,7 +112,8 @@ sections:
           *   Dedicated Server
 
 
-          ***Max 5 Accounts***
+          ***Max 5 Accounts  ***- enables login for staff to view analytics
+
         highlight: false
         actions: []
         type: pricing_plan
