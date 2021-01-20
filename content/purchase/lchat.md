@@ -36,7 +36,7 @@ sections:
           - Personal
           - Sole Trader
           - Basic
-          - lorem-ipsum
+          - Live Streamer
       - type: form_field
         template: form_field
         input_type: textarea
