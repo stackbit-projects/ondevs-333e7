@@ -43,17 +43,16 @@ sections:
       - title: ''
         subtitle: lorem-ipsum
         price: ''
-        details: >
-          ## Creation
+        details: |
+          Creation
 
+          1.  Content
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          2.  Ads
 
+          3.  Media
 
-          *   Lorem ipsum
-
-          *   dolor sit amet
+          4.  Email marketing (targeted)
         highlight: false
         actions: []
         type: pricing_plan
