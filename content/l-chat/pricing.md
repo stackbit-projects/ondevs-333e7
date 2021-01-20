@@ -29,7 +29,7 @@ sections:
           *   Unlimited Meetings
         highlight: false
         actions:
-          - label: L Chat
+          - label: L Chat - Try Now
             url: lorem-ipsum
             style: link
             has_icon: false
