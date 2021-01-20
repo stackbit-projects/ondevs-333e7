@@ -33,7 +33,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Individual
+          - Personal
           - Basic
           - Other
       - type: form_field
