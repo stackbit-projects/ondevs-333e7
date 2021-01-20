@@ -66,6 +66,8 @@ sections:
           *   Social Media Streaming\*   1 GB Cloud Recording (per license)
 
           *   No minimum license purchase
+
+          ***Max 10 license per account***
         highlight: true
         actions:
           - type: action
