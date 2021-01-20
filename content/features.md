@@ -40,7 +40,7 @@ sections:
     subtitle: Click a segment below to see pricing and info
     background: gray
     pricing_plans:
-      - title: lorem-ipsum
+      - title: ''
         subtitle: lorem-ipsum
         price: ''
         details: >
