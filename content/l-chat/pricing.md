@@ -81,7 +81,11 @@ sections:
           <!---->
 
 
-          *   Group meetings on your own domain, and server\*
+          *   Group meetings on your own domain
+
+          *   Have YOURDOMAN.com rather than '.lchat.co.uk
+
+
 
 
           ***Max 5 Licenses***
