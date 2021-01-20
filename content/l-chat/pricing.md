@@ -29,7 +29,7 @@ sections:
           *   Unlimited Meetings
         highlight: false
         actions:
-          - label: lorem-ipsum
+          - label: L
             url: lorem-ipsum
             style: link
             has_icon: false
