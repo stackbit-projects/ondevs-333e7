@@ -112,7 +112,7 @@ sections:
         template: pricing_plan
         title: Enterprise
         subtitle: For very large businesses
-        price: $149/m
+        price: £150
         details: >
           ## Annual License
 
