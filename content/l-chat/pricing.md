@@ -53,7 +53,7 @@ sections:
 
           *   Unlimited meeting rooms, maximium 75 interactive participants
 
-          ***Max 10 license per account***
+          ***Max 1 User account***
         highlight: true
         actions:
           - type: action
@@ -82,7 +82,7 @@ sections:
           *   Group meetings on your own domain, and server\*
 
 
-          ***Minimum 5 Licenses***
+          ***Max 5 Licenses***
 
 
           <!---->
