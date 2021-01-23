@@ -91,7 +91,7 @@ sections:
           - type: action
             template: action
             label: Purchase
-            url: enquire/lchat
+            url: purchase/lchat
             style: secondary
       - title: Live Streamer
         subtitle: Influencers and rising stars
