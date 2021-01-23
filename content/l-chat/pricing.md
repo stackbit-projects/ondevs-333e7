@@ -173,7 +173,7 @@ sections:
           - type: action
             template: action
             label: Purchase
-            url: enquire/lchat
+            url: purchase/lchat
             style: secondary
   - type: section_faq
     template: section_faq
