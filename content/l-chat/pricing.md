@@ -118,7 +118,7 @@ sections:
         highlight: false
         actions:
           - label: Purchase
-            url: enquire/lchat
+            url: purchase/lchat
             style: primary
             has_icon: false
             icon: arrow-left
