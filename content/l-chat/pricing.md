@@ -56,7 +56,7 @@ sections:
           - type: action
             template: action
             label: Purchase
-            url: enquire/lchat
+            url: purchase/lchat
             style: primary
       - type: pricing_plan
         template: pricing_plan
