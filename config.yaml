@@ -37,7 +37,7 @@ params:
         url: ''
         style: link
         icon: arrow-right
-        has_icon: true
+        has_icon: false
       - type: action
         template: action
         label: L Chat
