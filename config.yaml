@@ -34,7 +34,7 @@ params:
       - type: action
         template: action
         label: ''
-        url: /pricing
+        url: ''
         style: link
         icon: arrow-right
         has_icon: true
