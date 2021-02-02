@@ -33,7 +33,7 @@ params:
         icon: arrow-right
       - type: action
         template: action
-        label: Pricing
+        label: ''
         url: /pricing
         style: link
         icon: arrow-right
