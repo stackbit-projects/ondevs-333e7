@@ -41,7 +41,7 @@ sections:
           - type: action
             template: action
             label: View Portfolio
-            url: 'https://dfab-planty-example.ondevs.com/'
+            url: web.portfolio.ondevs.com
             style: secondary
             has_icon: true
             icon: arrow-right
