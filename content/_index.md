@@ -32,9 +32,9 @@ sections:
       - type: feature_item
         template: feature_item
         title: Out Of This World
-        content: >-
+        content: >
           Cutting edge web services, to propel your business. See examples of
-          our work in action.
+          our work in action
         image: /images/Untitled design (46).png
         image_alt: App preview on a phone and tablet
         actions:
