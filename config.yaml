@@ -33,13 +33,6 @@ params:
         icon: arrow-right
       - type: action
         template: action
-        label: ''
-        url: ''
-        style: link
-        icon: arrow-right
-        has_icon: false
-      - type: action
-        template: action
         label: L Chat
         url: lchat
         style: link
