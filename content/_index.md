@@ -41,7 +41,7 @@ sections:
           - type: action
             template: action
             label: View Portfolio
-            url: web.portfolio.ondevs.com
+            url: 'https://web.portfolio.ondevs.com'
             style: secondary
             has_icon: true
             icon: arrow-right
