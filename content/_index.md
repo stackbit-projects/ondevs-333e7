@@ -42,7 +42,7 @@ sections:
             template: action
             label: View Portfolio
             url: 'https://web.portfolio.ondevs.com'
-            style: secondary
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
