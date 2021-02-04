@@ -15,7 +15,7 @@ sections:
     image: /images/OD (1).png
     image_alt: App preview
     actions:
-      - label: 'https://web.portfolio.ondevs.com'
+      - label: Portfolio
         url: 'https://web.portfolio.ondevs.com'
         style: link
         has_icon: false
