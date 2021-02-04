@@ -16,7 +16,7 @@ sections:
     image_alt: App preview
     actions:
       - label: 'https://web.portfolio.ondevs.com'
-        url: lorem-ipsum
+        url: 'https://web.portfolio.ondevs.com'
         style: link
         has_icon: false
         icon: arrow-left
