@@ -14,7 +14,16 @@ sections:
       services from leaflet distribution to online advertising. 
     image: /images/OD (1).png
     image_alt: App preview
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: left
+        new_window: false
+        no_follow: false
+        type: action
   - type: section_features
     template: section_features
     section_id: features
