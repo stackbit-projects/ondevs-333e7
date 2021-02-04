@@ -16,7 +16,7 @@ sections:
     image_alt: App preview
     actions:
       - label: Portfolio
-        url: 'https://web.portfolio.ondevs.com'
+        url: contact
         style: link
         has_icon: false
         icon: arrow-left
