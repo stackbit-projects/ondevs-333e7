@@ -15,7 +15,7 @@ sections:
     image: /images/OD (1).png
     image_alt: App preview
     actions:
-      - label: Portfolio
+      - label: Contact
         url: contact
         style: link
         has_icon: false
