@@ -14,12 +14,7 @@ sections:
       services from leaflet distribution to online advertising. 
     image: /images/OD (1).png
     image_alt: App preview
-    actions:
-      - type: action
-        template: action
-        label: Visit Services
-        url: services
-        style: primary
+    actions: []
   - type: section_features
     template: section_features
     section_id: features
