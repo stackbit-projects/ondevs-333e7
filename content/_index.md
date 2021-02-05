@@ -43,7 +43,7 @@ sections:
         image_alt: App preview on a phone and tablet
         actions:
           - label: lorem-ipsum
-            url: lorem-ipsum
+            url: 'https://web.portfolio.ondevs.com'
             style: link
             has_icon: false
             icon: arrow-left
