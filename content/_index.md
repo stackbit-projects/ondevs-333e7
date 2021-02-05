@@ -41,15 +41,7 @@ sections:
           our work in action
         image: /images/Untitled design (46).png
         image_alt: App preview on a phone and tablet
-        actions:
-          - type: action
-            template: action
-            label: View Portfolio
-            url: 'https://web.portfolio.ondevs.com'
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - type: feature_item
         template: feature_item
         title: About Us
