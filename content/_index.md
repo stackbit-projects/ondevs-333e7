@@ -42,7 +42,7 @@ sections:
         image: /images/Untitled design (46).png
         image_alt: App preview on a phone and tablet
         actions:
-          - label: lorem-ipsum
+          - label: 'Web '
             url: 'https://web.portfolio.ondevs.com'
             style: link
             has_icon: false
