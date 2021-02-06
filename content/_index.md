@@ -45,7 +45,7 @@ sections:
           - label: Web Portfolio
             url: 'https://web.portfolio.ondevs.com'
             style: link
-            has_icon: false
+            has_icon: true
             icon: arrow-left
             icon_position: left
             new_window: true
