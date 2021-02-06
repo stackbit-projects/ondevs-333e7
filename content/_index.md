@@ -46,7 +46,7 @@ sections:
             url: 'https://web.portfolio.ondevs.com'
             style: link
             has_icon: false
-            icon: arrow-right
+            icon: arrow-left
             icon_position: left
             new_window: true
             no_follow: false
