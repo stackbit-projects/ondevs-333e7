@@ -12,4 +12,4 @@ Origins in Finance. By providing our solutions in order to increase market prese
 
 Branched into Hospitality After success in the financial space, OnDevs Ltd. progressed into the hospitality industry. Promoting venues, creating branding, and providing modern websites to streamline and increase bookings.
 
-The skills and tools developed while working with this industry, as well as the experience gained; equipped us to be able to provide services to all.
+The skills, experience, and  tools developed while working with this industry. Equipped us to be able to provide services to all.
