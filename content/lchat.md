@@ -1,7 +1,7 @@
 ---
 title: Services
 meta_title: 'services marketing advertising '
-meta_description: lorem-ipsum
+meta_description: L Chat
 canonical_url: ''
 no_index: false
 sections:
