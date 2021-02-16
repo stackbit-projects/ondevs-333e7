@@ -2,7 +2,7 @@
 title: Pricing
 meta_title: L Chat
 meta_description: L Chat
-canonical_url: LChat
+canonical_url: LChat.com
 no_index: false
 sections:
   - type: section_pricing
