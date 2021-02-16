@@ -2,7 +2,7 @@
 title: Pricing
 meta_title: L Chat
 meta_description: L Chat
-canonical_url: lorem-ipsum
+canonical_url: L Chat
 no_index: false
 sections:
   - type: section_pricing
