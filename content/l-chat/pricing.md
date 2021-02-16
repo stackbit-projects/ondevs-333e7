@@ -28,7 +28,7 @@ sections:
         highlight: false
         actions:
           - label: L Chat - Try Now
-            url: lorem-ipsum
+            url: 'https://lchat.co.uk/'
             style: link
             has_icon: false
             icon: arrow-left
