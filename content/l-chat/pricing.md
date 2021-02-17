@@ -147,12 +147,13 @@ sections:
         subtitle: For very large businesses
         price: £150
         details: >
-          ## Annual License
+          # Annual License
+
+
+          #### Whitelabel
 
 
           All features of Basic
-
-
 
 
           *   100GB Cloud Storage - Record sessions, with or without text chat
@@ -167,7 +168,7 @@ sections:
           *   Live stream too 50million+ via Youtube, Facebook, and more socials
 
 
-          *   Host up to 1000 Participants 
+          *   Host up to 1000 Participants
 
 
           *   Chat/IM - Encrypted on screen text chat, can be included or
