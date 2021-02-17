@@ -64,7 +64,10 @@ sections:
         subtitle: For small businesses
         price: £650
         details: >
-          ## Year License
+          # Year License
+
+
+          ## White label
 
 
           *   Company Branding
@@ -78,12 +81,24 @@ sections:
 
           *   Unlimited rooms
 
-          *   Password access control
+          *   Password access control to rooms, lobby with knock to enter
+
+          *   Raise hand feature
 
           *   Have YOURDOMAN.com rather than '.lchat.co.uk
 
+          *   Record sessions and save to server, or upload to Dropbox/Google
 
-          ***Max 5 Accounts - enables login for staff to view analytics***
+          *   5 Accounts - enables login for staff to view analytics 
+
+          *   Dedicated landing page with rooms embed available
+
+
+          \*Recording sessions  to server £200pa for £10GB
+
+
+
+          ***Hosted with AWS as standard***
 
 
           <!---->
