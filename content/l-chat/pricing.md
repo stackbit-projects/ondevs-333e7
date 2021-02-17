@@ -62,7 +62,7 @@ sections:
         template: pricing_plan
         title: Basic
         subtitle: For small businesses
-        price: '£1,000 ONE OFF'
+        price: '£1,000 Setup'
         details: >
           #### Then £650/yr
 
