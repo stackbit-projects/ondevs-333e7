@@ -43,7 +43,7 @@ sections:
         subtitle: Perfect for individuals
         price: £100
         details: |
-          ## Year License
+          ### Year License
 
           *   OnDevs managed domain "YOURDOMAIN.lchat.co.uk
           *   1 GB Cloud Recording
