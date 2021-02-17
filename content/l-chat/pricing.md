@@ -171,10 +171,11 @@ sections:
         subtitle: Influencers and rising stars
         price: £1200 ONE OFF
         details: >
-          ### Year License
+          ### Then £1000 Yearly
 
 
-          *   Your Branding
+          Your Branding
+
 
           *   Have YOURDOMAN.com
 
