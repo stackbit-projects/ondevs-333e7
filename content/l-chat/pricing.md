@@ -139,7 +139,7 @@ sections:
           Host up to 1000 Participants
 
 
-          *   100GB Cloud Storage
+          *   100GB Cloud Storage - Record sessions, with or without text chat
 
 
           *   Recording Transcripts
@@ -154,18 +154,19 @@ sections:
           *   All features of Basic
 
 
-          *   Chat/IM
+          *   Chat/IM - Encrypted on screen text chat, can be included or
+          excluded from screen recordings. Deletes on exit. 
 
 
-          *   Custom Avatar
+          *   Custom Avatar (default user image)
 
 
           *   Advanced feature options; Mute all, participant video off, email
           and password authorisation (join session)
 
 
-          *   Custom Pages: Welcome, Exit, and on supporting materials; pdf's,
-          images, graphs.
+          *   Custom Pages: Welcome, Exit, and on page supporting materials;
+          pdf's, images, graphs.
 
 
           ***Minimum 15 licenses***
