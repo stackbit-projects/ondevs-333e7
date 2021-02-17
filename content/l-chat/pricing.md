@@ -89,13 +89,12 @@ sections:
 
           *   Record sessions and save to server, or upload to Dropbox/Google
 
-          *   5 Accounts - enables login for staff to view analytics 
+          *   5 Accounts - enables login for staff to view analytics
 
           *   Dedicated landing page with rooms embed available
 
 
           \*Recording sessions  to server £200pa for £10GB
-
 
 
           ***Hosted with AWS as standard***
