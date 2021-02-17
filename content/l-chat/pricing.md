@@ -107,38 +107,6 @@ sections:
             label: Purchase
             url: purchase/lchat
             style: secondary
-      - title: Live Streamer
-        subtitle: Influencers and rising stars
-        price: £1200 ONE OFF
-        details: >
-          ### Year License
-
-
-          *   Your Branding
-
-          *   Have YOURDOMAN.com
-
-          *   Optional Landing Page with Stream embed
-
-          *   Virtually unlimited viewers via YouTube, Facebook, and other
-          social streaming integrations.
-
-          *   Max 5 Accounts  - enables login for staff to view analytics
-
-
-          ***Hosted with AWS as standard***
-        highlight: false
-        actions:
-          - label: Purchase
-            url: purchase/lchat
-            style: primary
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
-        type: pricing_plan
       - type: pricing_plan
         template: pricing_plan
         title: Enterprise
@@ -197,5 +165,37 @@ sections:
             label: Purchase
             url: purchase/lchat
             style: secondary
+      - title: Live Streamer
+        subtitle: Influencers and rising stars
+        price: £1200 ONE OFF
+        details: >
+          ### Year License
+
+
+          *   Your Branding
+
+          *   Have YOURDOMAN.com
+
+          *   Optional Landing Page with Stream embed
+
+          *   Virtually unlimited viewers via YouTube, Facebook, and other
+          social streaming integrations.
+
+          *   Max 5 Accounts  - enables login for staff to view analytics
+
+
+          ***Hosted with AWS as standard***
+        highlight: false
+        actions:
+          - label: Purchase
+            url: purchase/lchat
+            style: primary
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
+        type: pricing_plan
 layout: landing
 ---
