@@ -159,16 +159,20 @@ sections:
           *   100GB Cloud Storage - Record sessions, with or without text chat
 
 
-          *   Recording Transcripts
+          *   Recording + Transcripts upload recordings to private cloud store
+          then to any other service of your choosing. 
 
 
           *   Dedicated Customer Success Manager
 
 
-          *   Live stream too 50million+ via Youtube, Facebook, and more socials
+          *   Live stream host up to 1000 to non contributing participants
 
 
-          *   Host up to 1000 Participants
+          *   Embed rooms/streams onto custom landing page
+
+
+          <!---->
 
 
           *   Chat/IM - Encrypted on screen text chat, can be included or
@@ -178,15 +182,16 @@ sections:
           *   Custom Avatar (default user image)
 
 
-          *   Advanced feature options; Mute all, participant video off, email
-          and password authorisation (join session)
+          *   Advanced feature options; Mute all participants on entry,
+          participant video off, email and password authorisation (no
+          unauthorised guests can join)
 
 
           *   Custom Pages: Welcome, Exit, and on page supporting materials;
           pdf's, images, graphs.
 
 
-          ***Minimum 15 licenses***
+          ***Hosted with AWS - Minimum 15 licenses***
         actions:
           - type: action
             template: action
