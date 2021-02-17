@@ -189,7 +189,8 @@ sections:
           pdf's, images, graphs.
 
 
-          ***Hosted with AWS - Minimum 15 licenses***
+          ***Hosted with AWS - Other host can be discussed, onsite installs also
+          available***
         actions:
           - type: action
             template: action
