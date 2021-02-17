@@ -67,7 +67,7 @@ sections:
           # Year License
 
 
-          ## White label
+          #### White label
 
 
           *   Company Branding
