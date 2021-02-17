@@ -64,7 +64,7 @@ sections:
         subtitle: For small businesses
         price: '£1,000 One time'
         details: >
-          ### Year License
+          ### Then £650/yr
 
 
           #### White label
