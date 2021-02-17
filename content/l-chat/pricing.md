@@ -111,7 +111,7 @@ sections:
         subtitle: Influencers and rising stars
         price: £1200
         details: >
-          ## Year License
+          ### Year License
 
 
           *   Your Branding
@@ -124,8 +124,6 @@ sections:
           social streaming integrations.
 
           *   Max 5 Accounts  - enables login for staff to view analytics
-
-
 
 
           ***Hosted with AWS as standard***
