@@ -41,7 +41,7 @@ sections:
         template: pricing_plan
         title: Sole Trader
         subtitle: Perfect for individuals
-        price: £100 ONE OFF
+        price: £100 Setup
         details: |
           ### Then £100 yr
 
