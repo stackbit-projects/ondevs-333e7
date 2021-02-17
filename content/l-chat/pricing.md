@@ -64,7 +64,7 @@ sections:
         subtitle: For small businesses
         price: £650
         details: >
-          # Year License
+          ### Year License
 
 
           #### White label
