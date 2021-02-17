@@ -143,7 +143,7 @@ sections:
         template: pricing_plan
         title: Enterprise
         subtitle: For very large businesses
-        price: £150
+        price: £5000 Setup
         details: >
           # Annual License
 
