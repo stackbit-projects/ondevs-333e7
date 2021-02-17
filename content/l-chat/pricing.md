@@ -79,7 +79,7 @@ sections:
           <!---->
 
 
-          *   Unlimited rooms
+          *   100 rooms
 
           *   Password access control to rooms, lobby with knock to enter
 
