@@ -14,7 +14,7 @@ sections:
     pricing_plans:
       - title: Personal
         subtitle: 'Free, secure, original'
-        price: Free
+        price: FREE
         details: |
           ### No Account Needed
 
