@@ -109,7 +109,7 @@ sections:
             style: secondary
       - title: Live Streamer
         subtitle: Influencers and rising stars
-        price: £1200
+        price: £1200 ONE OFF
         details: >
           ### Year License
 
