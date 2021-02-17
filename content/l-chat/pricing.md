@@ -145,7 +145,7 @@ sections:
         subtitle: For very large businesses
         price: £5000 Setup
         details: >
-          # Annual License
+          # Then £1500 Year
 
 
           #### Whitelabel
@@ -158,7 +158,7 @@ sections:
 
 
           *   Recording + Transcripts upload recordings to private cloud store
-          then to any other service of your choosing. 
+          then to any other service of your choosing.
 
 
           *   Dedicated Customer Success Manager
