@@ -62,7 +62,7 @@ sections:
         template: pricing_plan
         title: Basic
         subtitle: For small businesses
-        price: £650
+        price: '£1,000 One time'
         details: >
           ### Year License
 
