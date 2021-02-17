@@ -150,7 +150,9 @@ sections:
           ## Annual License
 
 
-          Host up to 1000 Participants
+          All features of Basic
+
+
 
 
           *   100GB Cloud Storage - Record sessions, with or without text chat
@@ -165,11 +167,11 @@ sections:
           *   Live stream too 50million+ via Youtube, Facebook, and more socials
 
 
-          *   All features of Basic
+          *   Host up to 1000 Participants 
 
 
           *   Chat/IM - Encrypted on screen text chat, can be included or
-          excluded from screen recordings. Deletes on exit. 
+          excluded from screen recordings. Deletes on exit.
 
 
           *   Custom Avatar (default user image)
