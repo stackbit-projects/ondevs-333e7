@@ -16,7 +16,7 @@ sections:
         subtitle: 'Free, secure, original'
         price: Free
         details: |
-          ## No Account Needed
+          ### No Account Needed
 
           *   Host up to 75 active participants
 
