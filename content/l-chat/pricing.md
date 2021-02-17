@@ -124,8 +124,12 @@ sections:
           *   Virtually unlimited viewers via YouTube, Facebook, and other
           social streaming integrations.
 
+          *   Max 5 Accounts  - enables login for staff to view analytics
 
-          ***Max 5 Accounts  - enables login for staff to view analytics***
+
+
+
+          ***Hosted with AWS as standard***
         highlight: false
         actions:
           - label: Purchase
