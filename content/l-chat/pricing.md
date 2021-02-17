@@ -64,10 +64,10 @@ sections:
         subtitle: For small businesses
         price: '£1,000 ONE OFF'
         details: >
-          ### Then £650/yr
+          #### Then £650/yr
 
 
-          #### White label
+          ##### White label
 
 
           *   Company Branding
